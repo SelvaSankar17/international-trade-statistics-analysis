@@ -1,0 +1,301 @@
+Port_ID,Port_Name,Country_ID,Port_Type,Capacity
+1,Port of Shanghai,36,Sea Port,10916024
+2,Port of Shenzhen,36,Sea Port,5111658
+3,Port of Ningbo-Zhoushan,36,Sea Port,13298078
+4,Port of Guangzhou,36,Sea Port,21891736
+5,Port of Qingdao,36,Sea Port,1670223
+6,Beijing Capital International Airport Cargo,36,Air Cargo Port,612639
+7,Shanghai Pudong International Airport Cargo,36,Air Cargo Port,794620
+8,Port of Los Angeles,186,Sea Port,12320483
+9,Port of Long Beach,186,Sea Port,19605120
+10,Port of New York and New Jersey,186,Sea Port,1996120
+11,Port of Savannah,186,Sea Port,17076717
+12,Port of Houston,186,Sea Port,7254075
+13,Memphis International Airport Cargo,186,Air Cargo Port,319536
+14,Chicago O'Hare International Cargo,186,Air Cargo Port,725977
+15,Louisville Inland Port,186,Inland Port,919420
+16,Port of Singapore,156,Sea Port,14081529
+17,Changi Airport Cargo Terminal,156,Air Cargo Port,590989
+18,Port of Busan,162,Sea Port,8125310
+19,Incheon International Airport Cargo,162,Air Cargo Port,765955
+20,Port of Tokyo,85,Sea Port,18540077
+21,Port of Yokohama,85,Sea Port,14294500
+22,Narita International Airport Cargo,85,Air Cargo Port,500854
+23,Port Klang,103,Sea Port,19023477
+24,Kuala Lumpur International Airport Cargo,103,Air Cargo Port,1043526
+25,Jebel Ali Port,184,Sea Port,7540656
+26,Dubai International Airport Cargo,184,Air Cargo Port,523936
+27,Port of Hamburg,64,Sea Port,19414361
+28,Frankfurt Airport Cargo Terminal,64,Air Cargo Port,3332597
+29,Duisburg Inland Port,64,Inland Port,113996
+30,Port of Rotterdam,122,Sea Port,7468275
+31,Amsterdam Schiphol Cargo,122,Air Cargo Port,395763
+32,Port of Antwerp,17,Sea Port,18728574
+33,Brussels Airport Cargo,17,Air Cargo Port,1122151
+34,Port of Felixstowe,185,Sea Port,9767675
+35,Port of Southampton,185,Sea Port,14113972
+36,London Heathrow Cargo Terminal,185,Air Cargo Port,1215099
+37,Port of Marseille,60,Sea Port,18192407
+38,Paris Charles de Gaulle Cargo,60,Air Cargo Port,993112
+39,Port of Valencia,164,Sea Port,19206684
+40,Port of Algeciras,164,Sea Port,10400932
+41,Port of Genoa,82,Sea Port,18849114
+42,Port of Gioia Tauro,82,Sea Port,22934213
+43,Port of Piraeus,66,Sea Port,6114171
+44,Jawaharlal Nehru Port,76,Sea Port,3507975
+45,Port of Chennai,76,Sea Port,19565263
+46,Port of Mumbai,76,Sea Port,19216438
+47,Port of Kolkata,76,Sea Port,21488378
+48,Indira Gandhi International Airport Cargo,76,Air Cargo Port,1580976
+49,Chennai International Airport Cargo,76,Air Cargo Port,3128897
+50,Port of Colombo,165,Sea Port,3319227
+51,Port of Karachi,131,Sea Port,18429254
+52,Port of Chittagong,14,Sea Port,23944472
+53,Tanjung Priok Port,77,Sea Port,2156848
+54,Laem Chabang Port,173,Sea Port,18987057
+55,Suvarnabhumi Airport Cargo,173,Air Cargo Port,504970
+56,Port of Ho Chi Minh City,192,Sea Port,20820515
+57,Port of Haiphong,192,Sea Port,6960827
+58,Port of Manila,138,Sea Port,16706906
+59,Jeddah Islamic Port,151,Sea Port,22880434
+60,King Abdulaziz International Airport Cargo,151,Air Cargo Port,4465392
+61,Hamad Port,141,Sea Port,14397616
+62,Port of Ambarli,179,Sea Port,10591029
+63,Istanbul Airport Cargo,179,Air Cargo Port,3910751
+64,Port of Alexandria,51,Sea Port,19698195
+65,Suez Canal Port Said,51,Sea Port,15256344
+66,Tanger Med Port,116,Sea Port,12182690
+67,Port of Durban,161,Sea Port,10108511
+68,Port of Cape Town,161,Sea Port,8385812
+69,Port of Lagos,126,Sea Port,6081971
+70,Port of Mombasa,88,Sea Port,23504361
+71,Port of Santos,24,Sea Port,8240519
+72,Port of Rio de Janeiro,24,Sea Port,2796598
+73,Sao Paulo Guarulhos Airport Cargo,24,Air Cargo Port,2523672
+74,Port of Buenos Aires,7,Sea Port,17672670
+75,Port of Valparaiso,35,Sea Port,16663348
+76,Port of Cartagena,37,Sea Port,11575131
+77,Port of Callao,137,Sea Port,24526122
+78,Port of Balboa,134,Sea Port,15110376
+79,Colon Free Trade Zone Port,134,Sea Port,9711588
+80,Port of Veracruz,110,Sea Port,20483273
+81,Port of Manzanillo,110,Sea Port,2506213
+82,Port of Vancouver,32,Sea Port,4011630
+83,Port of Montreal,32,Sea Port,17227615
+84,Toronto Pearson Airport Cargo,32,Air Cargo Port,3512468
+85,Port of Melbourne,9,Sea Port,5585209
+86,Port of Sydney,9,Sea Port,11527488
+87,Sydney Kingsford Smith Airport Cargo,9,Air Cargo Port,1279938
+88,Port of Auckland,123,Sea Port,16456879
+89,Port of Novorossiysk,143,Sea Port,14199848
+90,Port of Saint Petersburg,143,Sea Port,1365577
+91,Port of Gdansk,139,Sea Port,22471603
+92,Port of Gothenburg,168,Sea Port,2654511
+93,Port of Oslo,129,Sea Port,18775914
+94,Port of Copenhagen,46,Sea Port,19277559
+95,Port of Helsinki,59,Sea Port,10577619
+96,Port of Lisbon,140,Sea Port,11462612
+97,Port of Haifa,81,Sea Port,23380241
+98,Ashdod Port,81,Sea Port,11800036
+99,Port of Bandar Abbas,78,Sea Port,19993743
+100,Umm Qasr Port,79,Sea Port,16715640
+101,Shuwaikh Port,90,Sea Port,19508054
+102,Port of Salalah,130,Sea Port,15357710
+103,Port of Odessa,183,Sea Port,2357301
+104,Yaren Free Trade Port,120,Sea Port,13518306
+105,Malabo Airport Cargo Complex,53,Air Cargo Port,717354
+106,Luanda Airport Cargo Complex,5,Air Cargo Port,1337581
+107,Beirut International Cargo Terminal,94,Air Cargo Port,1070675
+108,Port of Nuku'alofa,176,Sea Port,5121775
+109,Trinidad and Tobago Main Seaport,177,Sea Port,15664685
+110,Juba Airport Cargo Complex,163,Air Cargo Port,1231198
+111,Libya Main Seaport,97,Sea Port,20044087
+112,Bogota Free Trade Port,37,Sea Port,22104264
+113,Gitega Inland Container Depot,28,Inland Port,336972
+114,Serbia Main Seaport,153,Sea Port,18447410
+115,Dakar International Cargo Terminal,152,Air Cargo Port,184488
+116,Pretoria Airport Cargo Complex,161,Air Cargo Port,867114
+117,Saint Lucia Main Seaport,146,Sea Port,4722479
+118,Jerusalem Free Trade Port,81,Sea Port,6586585
+119,Asuncion International Cargo Terminal,136,Air Cargo Port,239828
+120,Monaco Inland Container Depot,113,Inland Port,456231
+121,Muscat Inland Container Depot,130,Inland Port,1061012
+122,Mexico City International Cargo Terminal,110,Air Cargo Port,2739596
+123,Bern Inland Container Depot,169,Inland Port,1151590
+124,Sao Tome Free Trade Port,150,Sea Port,4448102
+125,Port of Reykjavik,75,Sea Port,24877664
+126,Accra Inland Container Depot,65,Inland Port,1892621
+127,Kingston Free Trade Port,84,Sea Port,22278966
+128,Moldova Main Seaport,112,Sea Port,17389616
+129,Roseau Free Trade Port,48,Sea Port,16882545
+130,Hanoi International Cargo Terminal,192,Air Cargo Port,4466271
+131,Georgetown International Cargo Terminal,71,Air Cargo Port,4396491
+132,Nepal Main Seaport,121,Sea Port,677631
+133,New Delhi Free Trade Port,76,Sea Port,6194081
+134,Zimbabwe Main Seaport,195,Sea Port,181952
+135,Helsinki International Cargo Terminal,59,Air Cargo Port,1450749
+136,Praia International Cargo Terminal,29,Air Cargo Port,3976946
+137,Croatia Main Seaport,42,Sea Port,24383448
+138,Port of Panama City,134,Sea Port,18722223
+139,Port of Vatican City,190,Sea Port,10988145
+140,Yaounde Airport Cargo Complex,31,Air Cargo Port,4353224
+141,Belize Main Seaport,18,Sea Port,18687536
+142,Tallinn Free Trade Port,55,Sea Port,3610441
+143,Peru Main Seaport,137,Sea Port,1956649
+144,Tunis International Cargo Terminal,178,Air Cargo Port,1609792
+145,Ottawa Inland Container Depot,32,Inland Port,98497
+146,Port of Athens,66,Sea Port,17086054
+147,Suva Free Trade Port,58,Sea Port,18898510
+148,Port of Asmara,54,Sea Port,2176305
+149,Sofia Free Trade Port,26,Sea Port,10975780
+150,Ukraine Main Seaport,183,Sea Port,17013548
+151,Malta Main Seaport,106,Sea Port,17235287
+152,Montevideo International Cargo Terminal,187,Air Cargo Port,2330200
+153,Abuja Free Trade Port,126,Sea Port,17100891
+154,Yemen Main Seaport,193,Sea Port,16090237
+155,Japan Main Seaport,85,Sea Port,8359949
+156,Riyadh Airport Cargo Complex,151,Air Cargo Port,4394000
+157,San Jose Inland Container Depot,41,Inland Port,1945218
+158,United Kingdom Main Seaport,185,Sea Port,6847742
+159,Monrovia Free Trade Port,96,Sea Port,4651468
+160,Luxembourg Free Trade Port,100,Sea Port,4130955
+161,Nairobi Free Trade Port,88,Sea Port,14885021
+162,Santiago Inland Container Depot,35,Inland Port,162140
+163,Kuwait City Airport Cargo Complex,90,Air Cargo Port,2023624
+164,Quito Free Trade Port,50,Sea Port,2503525
+165,Gaborone International Cargo Terminal,23,Air Cargo Port,2544903
+166,Port of Kingstown,147,Sea Port,5232368
+167,Port Louis Airport Cargo Complex,109,Air Cargo Port,3076768
+168,Washington D.C. International Cargo Terminal,186,Air Cargo Port,2128222
+169,Nassau International Cargo Terminal,12,Air Cargo Port,3928652
+170,Basseterre International Cargo Terminal,145,Air Cargo Port,794581
+171,Stockholm Free Trade Port,168,Sea Port,16399758
+172,Honiara International Cargo Terminal,159,Air Cargo Port,1881633
+173,Lusaka International Cargo Terminal,194,Air Cargo Port,3624867
+174,Ivory Coast Main Seaport,83,Sea Port,13599606
+175,Riga Inland Container Depot,93,Inland Port,893480
+176,Warsaw International Cargo Terminal,139,Air Cargo Port,2996501
+177,Oslo Inland Container Depot,129,Inland Port,203344
+178,Algiers Airport Cargo Complex,3,Air Cargo Port,3074832
+179,Port of Saint George's,67,Sea Port,11390716
+180,Morocco Main Seaport,116,Sea Port,15440437
+181,Amman Free Trade Port,86,Sea Port,23643845
+182,Port of Paramaribo,167,Sea Port,12946463
+183,Ulaanbaatar Inland Container Depot,114,Inland Port,1095137
+184,Sierra Leone Main Seaport,155,Sea Port,9963794
+185,Benin Main Seaport,19,Sea Port,2207241
+186,Port of Baku,11,Sea Port,7718994
+187,Port of Kinshasa,40,Sea Port,2870628
+188,Astana Inland Container Depot,87,Inland Port,580258
+189,Port of Managua,124,Sea Port,6141853
+190,Moscow Inland Container Depot,143,Inland Port,1594978
+191,Tbilisi International Cargo Terminal,63,Air Cargo Port,3547124
+192,Mogadishu Airport Cargo Complex,160,Air Cargo Port,2174369
+193,Damascus Free Trade Port,170,Sea Port,5061956
+194,Gabon Main Seaport,61,Sea Port,17323238
+195,Mali Main Seaport,105,Sea Port,16646426
+196,Tehran Airport Cargo Complex,78,Air Cargo Port,2748481
+197,Port of Prague,45,Sea Port,9413777
+198,Port of Ngerulmud,132,Sea Port,23142347
+199,Wellington International Cargo Terminal,123,Air Cargo Port,3572817
+200,Port of Port Moresby,135,Sea Port,9073572
+201,Port of Santo Domingo,49,Sea Port,21338257
+202,Port of Male,104,Sea Port,8792670
+203,Port of Naypyidaw,118,Sea Port,20457047
+204,Vienna International Cargo Terminal,10,Air Cargo Port,563870
+205,Bucharest Inland Container Depot,142,Inland Port,1819370
+206,Port of Baghdad,79,Sea Port,15276112
+207,Manama Inland Container Depot,13,Inland Port,1169859
+208,Conakry Free Trade Port,69,Sea Port,9037881
+209,Bhutan Main Seaport,20,Sea Port,4386064
+210,Afghanistan Main Seaport,1,Sea Port,23858101
+211,Victoria International Cargo Terminal,154,Air Cargo Port,923145
+212,Buenos Aires International Cargo Terminal,7,Air Cargo Port,2201936
+213,Port of Jakarta,77,Sea Port,6128250
+214,Dili International Cargo Terminal,174,Air Cargo Port,2622181
+215,Bridgetown Airport Cargo Complex,15,Air Cargo Port,2563570
+216,South Korea Main Seaport,162,Sea Port,6957902
+217,Addis Ababa Inland Container Depot,57,Inland Port,944673
+218,Burkina Faso Main Seaport,27,Sea Port,22603853
+219,Canberra International Cargo Terminal,9,Air Cargo Port,2274306
+220,Bandar Seri Begawan Inland Container Depot,25,Inland Port,1695436
+221,Port of Yerevan,8,Sea Port,8453665
+222,Port of Caracas,191,Sea Port,564930
+223,Port of Ramallah,133,Sea Port,24648095
+224,Gambia Main Seaport,62,Sea Port,18540140
+225,Islamabad International Cargo Terminal,131,Air Cargo Port,4318715
+226,Cairo Free Trade Port,51,Sea Port,8293636
+227,San Salvador Free Trade Port,52,Sea Port,3616210
+228,Colombo Airport Cargo Complex,165,Air Cargo Port,3630368
+229,Madrid Airport Cargo Complex,164,Air Cargo Port,4157374
+230,Mozambique Main Seaport,117,Sea Port,13239779
+231,Bangladesh Main Seaport,14,Sea Port,10377485
+232,Bangui Airport Cargo Complex,33,Air Cargo Port,1810070
+233,Rome International Cargo Terminal,82,Air Cargo Port,2879814
+234,Maseru International Cargo Terminal,95,Air Cargo Port,1177046
+235,Nouakchott Free Trade Port,108,Sea Port,11711915
+236,Port of Moroni,38,Sea Port,4405988
+237,Port of Tirana,2,Sea Port,2423063
+238,Funafuti Airport Cargo Complex,181,Air Cargo Port,2149076
+239,Guatemala City Free Trade Port,68,Sea Port,5527644
+240,Port of Djibouti,47,Sea Port,2884841
+241,Niamey Airport Cargo Complex,125,Air Cargo Port,3200067
+242,Andorra Main Seaport,4,Sea Port,22549699
+243,Kigali Inland Container Depot,144,Inland Port,1265729
+244,San Marino International Cargo Terminal,149,Air Cargo Port,2463352
+245,Port of Abu Dhabi,184,Sea Port,15466682
+246,Copenhagen International Cargo Terminal,46,Air Cargo Port,1326482
+247,Sarajevo Inland Container Depot,22,Inland Port,944961
+248,Port of Brazzaville,39,Sea Port,8882971
+249,Paris Inland Container Depot,60,Inland Port,699808
+250,Liechtenstein Main Seaport,98,Sea Port,10905996
+251,Vientiane International Cargo Terminal,92,Air Cargo Port,293960
+252,Majuro Inland Container Depot,107,Inland Port,466897
+253,Bangkok Inland Container Depot,173,Inland Port,393690
+254,Port of Ljubljana,158,Sea Port,11301901
+255,Palikir Free Trade Port,111,Sea Port,2864900
+256,Beijing Free Trade Port,36,Sea Port,9409299
+257,Haiti Main Seaport,72,Sea Port,22062307
+258,Doha International Cargo Terminal,141,Air Cargo Port,2086879
+259,Malaysia Main Seaport,103,Sea Port,216112
+260,Port of Kampala,182,Sea Port,8914030
+261,Port of Havana,43,Sea Port,4877313
+262,Sucre Free Trade Port,21,Sea Port,19739765
+263,Port of Skopje,128,Sea Port,13269729
+264,Port of Antananarivo,101,Sea Port,10104453
+265,Lilongwe Inland Container Depot,102,Inland Port,1330513
+266,Berlin International Cargo Terminal,64,Air Cargo Port,713692
+267,Chad Main Seaport,34,Sea Port,17806654
+268,Budapest International Cargo Terminal,74,Air Cargo Port,3272500
+269,Mbabane Inland Container Depot,56,Inland Port,1521369
+270,Port Vila Free Trade Port,189,Sea Port,5065151
+271,Pyongyang Inland Container Depot,127,Inland Port,1528664
+272,Cambodia Main Seaport,30,Sea Port,21632863
+273,Bratislava International Cargo Terminal,157,Air Cargo Port,372320
+274,Nicosia Airport Cargo Complex,44,Air Cargo Port,4308198
+275,Bishkek Airport Cargo Complex,91,Air Cargo Port,3605765
+276,Windhoek Airport Cargo Complex,119,Air Cargo Port,4245785
+277,Saint John's International Cargo Terminal,6,Air Cargo Port,4398594
+278,Kiribati Main Seaport,89,Sea Port,19125006
+279,Port of Dodoma,172,Sea Port,23084169
+280,Lithuania Main Seaport,99,Sea Port,23913447
+281,Tegucigalpa Airport Cargo Complex,73,Air Cargo Port,1933882
+282,Port of Podgorica,115,Sea Port,1095573
+283,Port of Lome,175,Sea Port,4515866
+284,Apia Airport Cargo Complex,148,Air Cargo Port,3030833
+285,Port of Khartoum,166,Sea Port,12687211
+286,Dublin Free Trade Port,80,Sea Port,18791064
+287,Port of Ashgabat,180,Sea Port,21114368
+288,Port of Tashkent,188,Sea Port,21062673
+289,Belarus Main Seaport,16,Sea Port,22889299
+290,Brussels International Cargo Terminal,17,Air Cargo Port,4109498
+291,Dushanbe Inland Container Depot,171,Inland Port,16950
+292,Ankara Free Trade Port,179,Sea Port,2402552
+293,Amsterdam Airport Cargo Complex,122,Air Cargo Port,4224226
+294,Guinea-Bissau Main Seaport,70,Sea Port,3135059
+295,Brasilia Airport Cargo Complex,24,Air Cargo Port,4417325
+296,Port of Yaren,120,Sea Port,24772513
+297,Malabo Free Trade Port,53,Sea Port,8512210
+298,Port of Luanda,5,Sea Port,8960655
+299,Nuku'alofa Airport Cargo Complex,176,Air Cargo Port,1726489
+300,Port of Spain International Cargo Terminal,177,Air Cargo Port,3866612

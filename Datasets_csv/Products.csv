@@ -1,0 +1,801 @@
+Product_ID,Category_ID,Product_Name,HS_Code,Unit_Price,Weight,Status
+1,1,LED Television,852891,146.93,59.38,Active
+2,1,Smartphone,851741,279.5,58.97,Active
+3,1,Laptop Computer,847196,892.69,43.72,Active
+4,1,Tablet Device,847185,514.98,2.58,Active
+5,1,Bluetooth Speaker,851837,290.7,48.24,Active
+6,1,Wireless Headphones,851881,250.62,52.06,Active
+7,1,Digital Camera,852579,512.13,36.05,Active
+8,1,Smartwatch,851745,974.18,0.72,Active
+9,1,Home Theater System,851830,842.3,27.35,Active
+10,1,Router,851729,270.15,61.13,Active
+11,1,Power Bank,850723,124.9,7.92,Active
+12,1,USB Flash Drive,852354,730.42,64.61,Active
+13,1,External Hard Drive,847168,650.43,77.85,Active
+14,1,Gaming Console,950458,108.38,23.6,Active
+15,1,Microwave Oven,851690,747.95,68.96,Active
+16,1,Refrigerator,841883,242.86,5.75,Active
+17,1,Air Conditioner,841594,285.06,23.29,Active
+18,1,Washing Machine,845020,1028.55,69.35,Active
+19,1,Electric Kettle,851658,344.4,50.93,Active
+20,1,Vacuum Cleaner,850856,207.75,28.55,Active
+21,1,Premium LED Television,852895,331.37,74.95,Active
+22,1,Premium Smartphone,851792,99.61,50.87,Active
+23,1,Premium Laptop Computer,847178,879.02,13.24,Active
+24,1,Premium Tablet Device,847158,334.89,74.05,Active
+25,1,Premium Bluetooth Speaker,851898,674.99,54.83,Active
+26,1,Premium Wireless Headphones,851817,286.42,2.76,Active
+27,1,Premium Digital Camera,852550,490.38,5.48,Active
+28,1,Premium Smartwatch,851782,1053.5,25.31,Active
+29,1,Premium Home Theater System,851893,606.59,70.8,Active
+30,1,Premium Router,851792,558.74,21.34,Active
+31,1,Premium Power Bank,850741,897.81,43.21,Active
+32,1,Premium USB Flash Drive,852384,522.69,46.77,Active
+33,1,Premium External Hard Drive,847156,274.9,79.8,Active
+34,1,Premium Gaming Console,950475,599.82,60.51,Active
+35,1,Premium Microwave Oven,851624,196.12,12.97,Active
+36,1,Premium Refrigerator,841897,515.26,5.27,Active
+37,1,Premium Air Conditioner,841558,721.13,37.55,Active
+38,1,Premium Washing Machine,845042,1165.73,68.89,Active
+39,1,Premium Electric Kettle,851611,821.14,9.34,Active
+40,1,Premium Vacuum Cleaner,850878,904.79,61.53,Active
+41,2,Paracetamol Tablets,300453,18.51,2.18,Active
+42,2,Amoxicillin Capsules,300468,2.48,3.61,Active
+43,2,Insulin Injection,300443,145.84,3.81,Active
+44,2,Ibuprofen Syrup,300474,137.07,4.35,Active
+45,2,Antiseptic Solution,300448,126.57,2.54,Active
+46,2,Vitamin C Tablets,300435,24.62,3.81,Active
+47,2,Cough Syrup,300479,143.12,4.61,Active
+48,2,Antibiotic Ointment,300410,90.64,2.45,Active
+49,2,Blood Pressure Medication,300424,139.51,4.39,Active
+50,2,Antihistamine Tablets,300449,37.44,1.21,Active
+51,2,Pain Relief Gel,300482,142.15,0.44,Active
+52,2,Oral Rehydration Salts,300472,122.77,4.89,Active
+53,2,Cholesterol Medication,300478,115.34,0.65,Active
+54,2,Antacid Tablets,300470,142.13,0.83,Active
+55,2,Vaccine Vial,300477,131.12,2.12,Active
+56,2,Surgical Antiseptic,300437,139.48,3.78,Active
+57,2,Diabetes Medication,300498,31.77,1.57,Active
+58,2,Antifungal Cream,300495,98.18,2.2,Active
+59,2,Multivitamin Capsules,300476,68.82,1.25,Active
+60,2,Saline Solution,300418,52.04,2.95,Active
+61,2,Premium Paracetamol Tablets,300439,89.09,0.05,Active
+62,2,Premium Amoxicillin Capsules,300490,10.71,0.35,Active
+63,2,Premium Insulin Injection,300414,129.23,0.36,Active
+64,2,Premium Ibuprofen Syrup,300440,43.21,2.43,Active
+65,2,Premium Antiseptic Solution,300479,21.58,4.68,Active
+66,2,Premium Vitamin C Tablets,300483,87.28,1.22,Active
+67,2,Premium Cough Syrup,300470,121.51,0.96,Active
+68,2,Premium Antibiotic Ointment,300422,99.53,1.78,Active
+69,2,Premium Blood Pressure Medication,300462,71.12,3.65,Active
+70,2,Premium Antihistamine Tablets,300496,98.71,3.23,Active
+71,2,Premium Pain Relief Gel,300417,61.59,1.7,Active
+72,2,Premium Oral Rehydration Salts,300423,38.8,0.96,Active
+73,2,Premium Cholesterol Medication,300467,22.75,0.93,Active
+74,2,Premium Antacid Tablets,300469,38.97,4.62,Active
+75,2,Premium Vaccine Vial,300466,121.59,4.28,Active
+76,2,Premium Surgical Antiseptic,300422,9.49,5.0,Active
+77,2,Premium Diabetes Medication,300411,145.41,4.63,Active
+78,2,Premium Antifungal Cream,300440,26.61,2.43,Active
+79,2,Premium Multivitamin Capsules,300437,129.97,4.51,Active
+80,2,Premium Saline Solution,300431,58.09,4.93,Active
+81,3,Basmati Rice,100643,7.45,19630.38,Active
+82,3,Wheat Grain,100146,3.67,23933.37,Active
+83,3,Raw Cotton,520181,5.46,12171.92,Active
+84,3,Soybean,120134,2.73,24218.05,Active
+85,3,Coffee Beans,090184,6.02,1533.33,Active
+86,3,Tea Leaves,090250,0.93,14608.6,Active
+87,3,Corn Maize,100574,7.4,13282.84,Active
+88,3,Sugarcane,170117,7.71,2011.99,Active
+89,3,Cashew Nuts,080133,1.01,1708.34,Active
+90,3,Black Pepper,090440,3.53,23540.49,Active
+91,3,Turmeric Powder,091082,2.35,14867.03,Active
+92,3,Cardamom,090889,1.11,16437.76,Active
+93,3,Sunflower Seeds,120682,4.42,23368.31,Active
+94,3,Barley Grain,100336,5.52,7861.45,Active
+95,3,Lentils,071343,3.47,16795.54,Active
+96,3,Chickpeas,071348,3.93,23226.17,Active
+97,3,Cocoa Beans,180119,0.57,15532.77,Active
+98,3,Palm Oil Fruit,151182,7.97,1840.79,Active
+99,3,Jute Fiber,530337,4.29,3320.09,Active
+100,3,Rubber Latex,400154,7.11,21982.96,Active
+101,3,Premium Basmati Rice,100657,2.64,10960.23,Active
+102,3,Premium Wheat Grain,100179,5.78,15295.83,Active
+103,3,Premium Raw Cotton,520193,4.47,16699.9,Active
+104,3,Premium Soybean,120180,2.75,16588.08,Active
+105,3,Premium Coffee Beans,090127,2.48,22243.92,Active
+106,3,Premium Tea Leaves,090280,1.67,7051.09,Active
+107,3,Premium Corn Maize,100536,5.88,5097.9,Active
+108,3,Premium Sugarcane,170191,6.9,12640.17,Active
+109,3,Premium Cashew Nuts,080142,7.29,21154.13,Active
+110,3,Premium Black Pepper,090421,5.26,20735.41,Active
+111,3,Premium Turmeric Powder,091015,0.53,19280.27,Active
+112,3,Premium Cardamom,090891,7.85,4047.93,Active
+113,3,Premium Sunflower Seeds,120666,4.64,10697.9,Active
+114,3,Premium Barley Grain,100311,1.34,23626.82,Active
+115,3,Premium Lentils,071398,7.28,13644.3,Active
+116,3,Premium Chickpeas,071357,4.87,3710.86,Active
+117,3,Premium Cocoa Beans,180126,0.81,9122.64,Active
+118,3,Premium Palm Oil Fruit,151115,7.24,5259.81,Active
+119,3,Premium Jute Fiber,530341,5.5,8848.43,Active
+120,3,Premium Rubber Latex,400181,7.13,10165.37,Active
+121,4,Industrial Lathe Machine,845889,67578.25,13890.17,Active
+122,4,Hydraulic Press,847940,77882.21,14644.28,Active
+123,4,CNC Milling Machine,845932,79386.75,420.56,Active
+124,4,Diesel Generator,850252,70523.59,6205.11,Active
+125,4,Excavator,842995,77833.73,12170.7,Active
+126,4,Bulldozer,842944,14748.21,10534.11,Active
+127,4,Forklift,842758,78558.93,12885.97,Active
+128,4,Conveyor Belt System,842838,18361.77,13780.86,Active
+129,4,Air Compressor,841454,27814.58,11940.42,Active
+130,4,Welding Machine,851539,20451.66,9917.5,Active
+131,4,Packaging Machine,842261,29879.44,12972.08,Active
+132,4,Textile Loom,844645,31927.58,7665.61,Active
+133,4,Printing Press,844396,88312.9,8066.43,Active
+134,4,Crane,842613,10823.09,14557.49,Active
+135,4,Water Pump,841332,52462.78,14754.08,Active
+136,4,Agricultural Tractor,870114,10202.03,6546.73,Active
+137,4,Grinding Machine,846050,39557.25,14764.33,Active
+138,4,Injection Molding Machine,847724,34974.99,8669.99,Active
+139,4,Bottling Machine,842242,4472.59,6569.06,Active
+140,4,Concrete Mixer,847476,83338.98,8099.86,Active
+141,4,Premium Industrial Lathe Machine,845895,18134.64,6497.9,Active
+142,4,Premium Hydraulic Press,847995,82908.99,9366.17,Active
+143,4,Premium CNC Milling Machine,845994,76397.37,10810.33,Active
+144,4,Premium Diesel Generator,850248,45887.46,10020.05,Active
+145,4,Premium Excavator,842951,36514.83,4470.05,Active
+146,4,Premium Bulldozer,842926,17669.69,9990.7,Active
+147,4,Premium Forklift,842758,61119.96,13546.94,Active
+148,4,Premium Conveyor Belt System,842888,51434.92,6120.82,Active
+149,4,Premium Air Compressor,841410,27696.81,3192.23,Active
+150,4,Premium Welding Machine,851584,54796.21,4867.63,Active
+151,4,Premium Packaging Machine,842266,40073.3,3244.84,Active
+152,4,Premium Textile Loom,844670,71539.32,14399.49,Active
+153,4,Premium Printing Press,844331,59467.14,4292.61,Active
+154,4,Premium Crane,842694,57148.21,5061.06,Active
+155,4,Premium Water Pump,841340,60715.21,3408.38,Active
+156,4,Premium Agricultural Tractor,870135,13688.18,740.9,Active
+157,4,Premium Grinding Machine,846070,55209.02,11538.92,Active
+158,4,Premium Injection Molding Machine,847768,37592.47,9464.99,Active
+159,4,Premium Bottling Machine,842234,64791.96,5790.48,Active
+160,4,Premium Concrete Mixer,847461,22336.61,9858.07,Active
+161,5,Sulfuric Acid,280710,536.13,1721.02,Active
+162,5,Sodium Hydroxide,281523,468.16,438.46,Active
+163,5,Ethanol,220799,313.18,101.39,Active
+164,5,Ammonia Solution,281441,550.89,243.6,Active
+165,5,Acetic Acid,291527,481.84,1335.49,Active
+166,5,Hydrochloric Acid,280681,359.29,1900.13,Active
+167,5,Potassium Chloride,282766,369.53,1438.83,Active
+168,5,Calcium Carbonate,283674,258.91,1813.8,Active
+169,5,Titanium Dioxide,320667,538.84,1487.57,Active
+170,5,Methanol,290570,272.79,1503.8,Active
+171,5,Formaldehyde Solution,291291,170.0,1555.57,Active
+172,5,Sodium Chloride Industrial,250172,377.92,549.92,Active
+173,5,Phosphoric Acid,280919,429.56,469.75,Active
+174,5,Polyethylene Resin,390152,195.23,1080.76,Active
+175,5,Citric Acid,291827,94.74,766.69,Active
+176,5,Hydrogen Peroxide,284729,425.32,129.39,Active
+177,5,Sodium Bicarbonate,283662,201.87,932.38,Active
+178,5,Urea Fertilizer,310217,128.07,840.87,Active
+179,5,Activated Carbon,380284,567.91,40.04,Active
+180,5,Silicone Sealant,391083,231.33,12.79,Active
+181,5,Premium Sulfuric Acid,280755,182.67,780.58,Active
+182,5,Premium Sodium Hydroxide,281563,325.24,1469.53,Active
+183,5,Premium Ethanol,220787,539.2,976.97,Active
+184,5,Premium Ammonia Solution,281444,264.32,59.02,Active
+185,5,Premium Acetic Acid,291553,402.98,1596.49,Active
+186,5,Premium Hydrochloric Acid,280631,505.1,1839.16,Active
+187,5,Premium Potassium Chloride,282789,322.8,1813.95,Active
+188,5,Premium Calcium Carbonate,283685,340.81,55.18,Active
+189,5,Premium Titanium Dioxide,320692,260.02,1733.84,Active
+190,5,Premium Methanol,290533,34.92,758.83,Active
+191,5,Premium Formaldehyde Solution,291237,275.55,675.66,Active
+192,5,Premium Sodium Chloride Industrial,250158,170.56,1902.46,Active
+193,5,Premium Phosphoric Acid,280963,155.1,164.73,Active
+194,5,Premium Polyethylene Resin,390112,450.67,105.12,Active
+195,5,Premium Citric Acid,291854,138.41,138.17,Active
+196,5,Premium Hydrogen Peroxide,284793,28.95,63.03,Active
+197,5,Premium Sodium Bicarbonate,283641,123.62,41.74,Active
+198,5,Premium Urea Fertilizer,310229,146.93,947.65,Active
+199,5,Premium Activated Carbon,380224,340.56,436.71,Active
+200,5,Premium Silicone Sealant,391099,157.46,738.42,Active
+201,6,Cotton Fabric Roll,520887,152.99,373.99,Active
+202,6,Silk Saree,500724,195.11,81.97,Active
+203,6,Polyester Yarn,540249,29.7,12.94,Active
+204,6,Denim Cloth,520949,145.22,454.02,Active
+205,6,Woolen Blanket,630158,100.97,357.54,Active
+206,6,Linen Fabric,530919,149.25,415.3,Active
+207,6,Knitted Sweater,611041,28.17,386.26,Active
+208,6,Nylon Rope,560797,151.3,60.62,Active
+209,6,Bedsheet Set,630282,196.31,173.67,Active
+210,6,Curtain Fabric,540764,166.4,34.57,Active
+211,6,Terry Towel,630292,87.28,424.8,Active
+212,6,Canvas Cloth,590172,29.07,480.4,Active
+213,6,Embroidered Cloth,581091,223.22,229.92,Active
+214,6,Synthetic Fiber Yarn,550329,110.57,366.92,Active
+215,6,Fleece Fabric,600193,69.71,404.12,Active
+216,6,Velvet Cloth,580178,194.34,232.49,Active
+217,6,Jute Bag Fabric,531085,69.29,425.87,Active
+218,6,Cotton T-Shirt,610921,71.9,225.46,Active
+219,6,Woven Carpet,570169,143.75,334.13,Active
+220,6,Upholstery Fabric,540753,10.09,425.49,Active
+221,6,Premium Cotton Fabric Roll,520833,123.42,177.48,Active
+222,6,Premium Silk Saree,500743,87.06,440.17,Active
+223,6,Premium Polyester Yarn,540299,220.39,277.94,Active
+224,6,Premium Denim Cloth,520976,237.17,42.9,Active
+225,6,Premium Woolen Blanket,630162,123.68,379.11,Active
+226,6,Premium Linen Fabric,530998,120.59,355.95,Active
+227,6,Premium Knitted Sweater,611067,198.85,46.62,Active
+228,6,Premium Nylon Rope,560738,102.89,121.73,Active
+229,6,Premium Bedsheet Set,630294,146.64,236.68,Active
+230,6,Premium Curtain Fabric,540777,87.91,498.32,Active
+231,6,Premium Terry Towel,630280,84.71,351.46,Active
+232,6,Premium Canvas Cloth,590144,78.74,115.35,Active
+233,6,Premium Embroidered Cloth,581034,80.94,371.47,Active
+234,6,Premium Synthetic Fiber Yarn,550398,48.73,108.27,Active
+235,6,Premium Fleece Fabric,600171,71.3,294.83,Active
+236,6,Premium Velvet Cloth,580177,150.41,490.26,Active
+237,6,Premium Jute Bag Fabric,531034,76.17,180.5,Active
+238,6,Premium Cotton T-Shirt,610948,6.49,267.11,Active
+239,6,Premium Woven Carpet,570145,14.24,27.36,Active
+240,6,Premium Upholstery Fabric,540747,175.26,63.23,Active
+241,7,Car Engine Assembly,840772,470.62,3.98,Active
+242,7,Brake Pad Set,870846,2117.59,132.31,Active
+243,7,Car Tire,401133,4345.08,75.97,Active
+244,7,Alloy Wheel Rim,870871,522.25,19.88,Active
+245,7,Vehicle Battery,850772,342.63,188.94,Active
+246,7,Headlight Assembly,851216,691.25,243.4,Active
+247,7,Car Air Filter,842148,392.46,74.68,Active
+248,7,Spark Plug Set,851181,3442.35,182.01,Active
+249,7,Transmission Gearbox,870889,1023.34,156.91,Active
+250,7,Car Seat Cover,940167,4089.18,89.42,Active
+251,7,Windshield Glass,700785,4455.24,91.82,Active
+252,7,Radiator Assembly,870889,280.43,288.04,Active
+253,7,Shock Absorber,870822,4264.68,62.57,Active
+254,7,Exhaust Muffler,870837,1198.26,24.63,Active
+255,7,Fuel Injector,840940,790.42,22.8,Active
+256,7,Car Side Mirror,870810,1844.24,206.9,Active
+257,7,Clutch Plate,870870,1317.75,69.67,Active
+258,7,Steering Wheel,870846,3166.41,136.37,Active
+259,7,Car Door Handle,870897,1058.07,79.59,Active
+260,7,Motorcycle Helmet,650690,2658.16,241.23,Active
+261,7,Premium Car Engine Assembly,840735,1918.87,163.51,Active
+262,7,Premium Brake Pad Set,870892,678.96,79.91,Active
+263,7,Premium Car Tire,401128,330.63,50.03,Active
+264,7,Premium Alloy Wheel Rim,870849,2681.75,247.32,Active
+265,7,Premium Vehicle Battery,850746,1981.8,140.77,Active
+266,7,Premium Headlight Assembly,851248,3151.8,282.82,Active
+267,7,Premium Car Air Filter,842174,2434.52,131.5,Active
+268,7,Premium Spark Plug Set,851186,188.97,129.78,Active
+269,7,Premium Transmission Gearbox,870851,2720.67,8.05,Active
+270,7,Premium Car Seat Cover,940139,4328.98,250.84,Active
+271,7,Premium Windshield Glass,700783,2646.18,6.52,Active
+272,7,Premium Radiator Assembly,870896,3698.18,173.0,Active
+273,7,Premium Shock Absorber,870832,2122.55,195.56,Active
+274,7,Premium Exhaust Muffler,870845,824.89,175.72,Active
+275,7,Premium Fuel Injector,840991,3665.96,290.73,Active
+276,7,Premium Car Side Mirror,870870,1572.35,100.19,Active
+277,7,Premium Clutch Plate,870895,479.65,48.5,Active
+278,7,Premium Steering Wheel,870862,3124.59,86.68,Active
+279,7,Premium Car Door Handle,870861,3662.91,165.16,Active
+280,7,Premium Motorcycle Helmet,650668,405.39,75.94,Active
+281,8,Instant Noodles,190224,58.24,404.23,Active
+282,8,Canned Tuna,160475,49.67,1.25,Active
+283,8,Chocolate Bars,180679,28.26,54.3,Active
+284,8,Biscuits Pack,190576,22.34,756.47,Active
+285,8,Frozen Shrimp,030690,27.08,51.71,Active
+286,8,Powdered Milk,040244,33.4,927.68,Active
+287,8,Refined Sugar,170166,52.97,484.76,Active
+288,8,Cooking Oil,151213,58.42,608.91,Active
+289,8,Tomato Ketchup,210340,42.88,310.82,Active
+290,8,Fruit Jam,200711,33.58,93.3,Active
+291,8,Roasted Peanuts,200824,28.23,117.55,Active
+292,8,Canned Vegetables,200529,30.4,716.63,Active
+293,8,Bottled Fruit Juice,200975,42.62,415.55,Active
+294,8,Instant Coffee,210171,58.83,243.81,Active
+295,8,Wheat Flour,110180,9.53,190.69,Active
+296,8,Baked Beans,200586,30.99,879.34,Active
+297,8,Salted Butter,040518,17.3,790.03,Active
+298,8,Cheese Block,040663,21.05,787.74,Active
+299,8,Honey Jar,040944,49.41,282.91,Active
+300,8,Breakfast Cereal,190448,50.41,579.97,Active
+301,8,Premium Instant Noodles,190294,29.89,148.68,Active
+302,8,Premium Canned Tuna,160478,29.58,332.51,Active
+303,8,Premium Chocolate Bars,180679,23.26,932.86,Active
+304,8,Premium Biscuits Pack,190534,58.87,238.88,Active
+305,8,Premium Frozen Shrimp,030659,14.78,775.57,Active
+306,8,Premium Powdered Milk,040215,19.77,473.03,Active
+307,8,Premium Refined Sugar,170158,23.78,663.72,Active
+308,8,Premium Cooking Oil,151293,58.87,495.38,Active
+309,8,Premium Tomato Ketchup,210314,8.45,965.36,Active
+310,8,Premium Fruit Jam,200752,52.31,874.2,Active
+311,8,Premium Roasted Peanuts,200866,6.88,910.45,Active
+312,8,Premium Canned Vegetables,200511,43.62,410.04,Active
+313,8,Premium Bottled Fruit Juice,200993,58.23,74.92,Active
+314,8,Premium Instant Coffee,210143,20.98,692.74,Active
+315,8,Premium Wheat Flour,110193,5.74,328.63,Active
+316,8,Premium Baked Beans,200596,51.7,380.07,Active
+317,8,Premium Salted Butter,040550,37.98,887.45,Active
+318,8,Premium Cheese Block,040672,52.47,36.0,Active
+319,8,Premium Honey Jar,040918,14.85,684.43,Active
+320,8,Premium Breakfast Cereal,190446,59.85,746.79,Active
+321,9,Crude Oil,270965,1174.01,38020.88,Active
+322,9,Diesel Fuel,271022,532.58,34703.12,Active
+323,9,Gasoline,271013,55.48,39809.21,Active
+324,9,Liquefied Petroleum Gas,271147,430.35,21540.03,Active
+325,9,Jet Fuel,271041,637.54,28300.74,Active
+326,9,Lubricating Oil,271033,204.23,3957.63,Active
+327,9,Petroleum Coke,271358,743.77,12049.08,Active
+328,9,Bitumen,271484,172.0,23062.88,Active
+329,9,Kerosene,271042,551.65,33345.37,Active
+330,9,Natural Gas Condensate,270969,1081.48,33883.77,Active
+331,9,Heavy Fuel Oil,271030,88.91,47262.33,Active
+332,9,Motor Oil,271085,359.2,48101.83,Active
+333,9,Grease Lubricant,271098,300.34,42266.74,Active
+334,9,Naphtha,271035,1199.25,42668.24,Active
+335,9,Paraffin Wax,271223,284.88,28600.42,Active
+336,9,Aviation Turbine Fuel,271083,355.26,34966.96,Active
+337,9,Base Oil,271012,1173.54,32914.91,Active
+338,9,Transformer Oil,271045,10.02,43254.72,Active
+339,9,Hydraulic Fluid,271016,1092.77,37261.16,Active
+340,9,Marine Fuel Oil,271046,930.96,11513.62,Active
+341,9,Premium Crude Oil,270955,263.04,9514.7,Active
+342,9,Premium Diesel Fuel,271042,813.41,36049.21,Active
+343,9,Premium Gasoline,271094,817.12,6847.59,Active
+344,9,Premium Liquefied Petroleum Gas,271122,1084.11,32320.57,Active
+345,9,Premium Jet Fuel,271049,946.4,1677.89,Active
+346,9,Premium Lubricating Oil,271056,878.91,4515.77,Active
+347,9,Premium Petroleum Coke,271347,392.26,20781.0,Active
+348,9,Premium Bitumen,271435,158.85,26974.99,Active
+349,9,Premium Kerosene,271056,637.16,45675.21,Active
+350,9,Premium Natural Gas Condensate,270931,308.59,41236.24,Active
+351,9,Premium Heavy Fuel Oil,271071,1160.87,14764.12,Active
+352,9,Premium Motor Oil,271053,965.14,23421.89,Active
+353,9,Premium Grease Lubricant,271019,169.17,48325.35,Active
+354,9,Premium Naphtha,271096,869.14,48997.31,Active
+355,9,Premium Paraffin Wax,271281,439.12,39536.19,Active
+356,9,Premium Aviation Turbine Fuel,271011,317.57,6188.2,Active
+357,9,Premium Base Oil,271057,807.49,33620.32,Active
+358,9,Premium Transformer Oil,271084,457.42,31931.08,Active
+359,9,Premium Hydraulic Fluid,271057,130.28,11698.76,Active
+360,9,Premium Marine Fuel Oil,271013,743.57,47159.03,Active
+361,10,Iron Ore,260151,54915.4,5541.97,Active
+362,10,Steel Billets,720718,38124.42,11612.05,Active
+363,10,Copper Cathode,740399,18131.76,10213.31,Active
+364,10,Aluminum Ingot,760127,2721.29,939.93,Active
+365,10,Zinc Sheet,790573,6967.67,5877.65,Active
+366,10,Stainless Steel Coil,721978,8140.28,11346.56,Active
+367,10,Lead Ingot,780195,56962.87,17415.13,Active
+368,10,Nickel Alloy,750279,25147.9,18559.3,Active
+369,10,Bauxite Ore,260629,53124.88,16376.5,Active
+370,10,Tin Ingot,800172,36939.33,23476.94,Active
+371,10,Steel Wire Rod,721345,1963.46,9269.54,Active
+372,10,Galvanized Steel Sheet,721066,26682.03,5910.45,Active
+373,10,Brass Rod,740756,5961.73,17145.15,Active
+374,10,Titanium Sheet,810879,54101.82,16124.22,Active
+375,10,Silver Bullion,710617,23888.68,4753.32,Active
+376,10,Gold Bar,710825,56940.67,20606.54,Active
+377,10,Iron Scrap,720421,39766.29,16046.19,Active
+378,10,Coal,270186,58265.61,1273.96,Active
+379,10,Limestone,252152,14614.51,3156.84,Active
+380,10,Manganese Ore,260282,12312.73,20747.15,Active
+381,10,Premium Iron Ore,260180,12429.84,5406.62,Active
+382,10,Premium Steel Billets,720739,19713.91,3697.38,Active
+383,10,Premium Copper Cathode,740386,170.63,21461.57,Active
+384,10,Premium Aluminum Ingot,760128,59251.64,13509.98,Active
+385,10,Premium Zinc Sheet,790532,6596.03,21662.53,Active
+386,10,Premium Stainless Steel Coil,721926,892.11,19751.72,Active
+387,10,Premium Lead Ingot,780140,35331.38,404.37,Active
+388,10,Premium Nickel Alloy,750243,3144.41,18545.53,Active
+389,10,Premium Bauxite Ore,260677,6819.4,1598.32,Active
+390,10,Premium Tin Ingot,800167,46681.13,12835.82,Active
+391,10,Premium Steel Wire Rod,721323,27120.6,5546.53,Active
+392,10,Premium Galvanized Steel Sheet,721088,2602.38,19582.84,Active
+393,10,Premium Brass Rod,740794,31287.31,11456.48,Active
+394,10,Premium Titanium Sheet,810813,3649.99,11979.76,Active
+395,10,Premium Silver Bullion,710661,25576.7,2707.97,Active
+396,10,Premium Gold Bar,710866,4409.91,2028.95,Active
+397,10,Premium Iron Scrap,720487,8900.46,3163.53,Active
+398,10,Premium Coal,270189,37984.79,13713.43,Active
+399,10,Premium Limestone,252151,22854.57,14938.82,Active
+400,10,Premium Manganese Ore,260247,27223.2,15139.62,Active
+401,11,Wooden Dining Table,940322,2782.04,24.65,Active
+402,11,Office Chair,940393,2288.68,154.25,Active
+403,11,Sofa Set,940337,1522.34,177.84,Active
+404,11,Bookshelf,940362,1206.09,91.79,Active
+405,11,Bed Frame,940363,2561.76,63.88,Active
+406,11,Wardrobe Cabinet,940350,2337.92,76.11,Active
+407,11,Coffee Table,940329,2413.27,95.91,Active
+408,11,Recliner Chair,940321,2916.25,20.46,Active
+409,11,Study Desk,940322,2613.72,75.78,Active
+410,11,Bar Stool,940326,1960.61,118.12,Active
+411,11,Outdoor Patio Set,940381,1979.04,134.66,Active
+412,11,Bunk Bed,940362,1256.99,133.74,Active
+413,11,TV Console Unit,940364,3042.28,144.77,Active
+414,11,Filing Cabinet,940346,2113.42,71.63,Active
+415,11,Dressing Table,940383,1790.72,32.64,Active
+416,11,Kitchen Cabinet,940371,808.13,23.43,Active
+417,11,Rocking Chair,940381,1305.44,153.0,Active
+418,11,Ottoman Stool,940383,814.77,86.96,Active
+419,11,Wall Shelf Unit,940381,3411.68,164.05,Active
+420,11,Conference Table,940388,2372.17,112.23,Active
+421,11,Premium Wooden Dining Table,940387,3253.92,166.23,Active
+422,11,Premium Office Chair,940344,130.47,56.11,Active
+423,11,Premium Sofa Set,940349,3227.74,71.5,Active
+424,11,Premium Bookshelf,940333,3048.42,114.13,Active
+425,11,Premium Bed Frame,940361,271.46,148.71,Active
+426,11,Premium Wardrobe Cabinet,940313,348.4,107.04,Active
+427,11,Premium Coffee Table,940358,1486.82,69.5,Active
+428,11,Premium Recliner Chair,940357,1111.38,66.23,Active
+429,11,Premium Study Desk,940382,2098.9,176.9,Active
+430,11,Premium Bar Stool,940329,576.21,124.33,Active
+431,11,Premium Outdoor Patio Set,940396,313.09,89.74,Active
+432,11,Premium Bunk Bed,940364,1715.25,89.52,Active
+433,11,Premium TV Console Unit,940344,778.02,103.44,Active
+434,11,Premium Filing Cabinet,940354,1521.8,58.08,Active
+435,11,Premium Dressing Table,940396,2088.18,106.33,Active
+436,11,Premium Kitchen Cabinet,940349,187.6,80.26,Active
+437,11,Premium Rocking Chair,940386,220.09,42.48,Active
+438,11,Premium Ottoman Stool,940337,2692.7,153.3,Active
+439,11,Premium Wall Shelf Unit,940347,1168.58,3.53,Active
+440,11,Premium Conference Table,940365,639.66,77.28,Active
+441,12,PVC Pipe,391739,451.24,1000.04,Active
+442,12,Plastic Sheet Roll,392055,66.72,1034.13,Active
+443,12,Rubber Tire,401115,393.73,551.76,Active
+444,12,Plastic Storage Container,392419,776.17,690.95,Active
+445,12,Silicone Rubber Sheet,400883,365.17,768.21,Active
+446,12,Polypropylene Granules,390247,105.43,25.13,Active
+447,12,Rubber Gasket,401651,156.34,1137.14,Active
+448,12,Plastic Bottle Preform,392368,749.16,1103.73,Active
+449,12,PVC Flooring,391821,394.17,127.13,Active
+450,12,Rubber Conveyor Belt,401065,530.81,628.8,Active
+451,12,Plastic Packaging Film,392060,783.73,894.99,Active
+452,12,Foam Padding,392138,301.1,201.84,Active
+453,12,Latex Gloves,401575,570.64,636.77,Active
+454,12,Plastic Pallet,392534,815.52,419.32,Active
+455,12,Rubber Hose,400992,733.9,283.6,Active
+456,12,Acrylic Sheet,392028,231.86,208.28,Active
+457,12,Plastic Chair,940129,684.67,786.65,Active
+458,12,Rubber Mat,401632,856.26,753.58,Active
+459,12,Polyethylene Film Roll,392069,679.49,911.88,Active
+460,12,Plastic Crate,392367,613.66,1058.47,Active
+461,12,Premium PVC Pipe,391792,572.5,749.46,Active
+462,12,Premium Plastic Sheet Roll,392090,285.89,527.77,Active
+463,12,Premium Rubber Tire,401170,399.1,363.45,Active
+464,12,Premium Plastic Storage Container,392445,533.09,422.4,Active
+465,12,Premium Silicone Rubber Sheet,400819,280.75,542.35,Active
+466,12,Premium Polypropylene Granules,390217,333.13,344.56,Active
+467,12,Premium Rubber Gasket,401692,778.1,1026.37,Active
+468,12,Premium Plastic Bottle Preform,392388,535.48,461.44,Active
+469,12,Premium PVC Flooring,391884,499.78,950.2,Active
+470,12,Premium Rubber Conveyor Belt,401015,405.86,971.8,Active
+471,12,Premium Plastic Packaging Film,392093,171.04,726.05,Active
+472,12,Premium Foam Padding,392174,137.47,74.34,Active
+473,12,Premium Latex Gloves,401523,730.25,1004.87,Active
+474,12,Premium Plastic Pallet,392520,455.09,207.15,Active
+475,12,Premium Rubber Hose,400941,637.44,1189.18,Active
+476,12,Premium Acrylic Sheet,392077,471.43,190.58,Active
+477,12,Premium Plastic Chair,940157,826.31,464.96,Active
+478,12,Premium Rubber Mat,401653,611.65,62.93,Active
+479,12,Premium Polyethylene Film Roll,392090,583.28,79.19,Active
+480,12,Premium Plastic Crate,392322,503.05,463.94,Active
+481,13,Face Cream,330442,87.12,1.33,Active
+482,13,Shampoo Bottle,330587,104.92,0.7,Active
+483,13,Perfume,330384,79.97,1.84,Active
+484,13,Lipstick,330449,116.16,1.41,Active
+485,13,Body Lotion,330460,16.35,1.43,Active
+486,13,Sunscreen Lotion,330420,37.84,0.78,Active
+487,13,Hair Conditioner,330552,97.77,1.36,Active
+488,13,Facial Cleanser,330497,109.58,0.23,Active
+489,13,Deodorant Spray,330795,51.39,0.76,Active
+490,13,Nail Polish,330456,37.76,1.9,Active
+491,13,Talcum Powder,330453,113.77,1.0,Active
+492,13,Shaving Cream,330738,120.0,0.35,Active
+493,13,Hair Oil,330547,101.49,0.25,Active
+494,13,Toothpaste,330679,100.38,1.77,Active
+495,13,Bar Soap,340114,79.77,1.76,Active
+496,13,Hand Sanitizer,380889,16.59,0.78,Active
+497,13,Skin Serum,330430,22.52,1.4,Active
+498,13,Makeup Foundation,330489,97.28,0.37,Active
+499,13,Eye Shadow Palette,330466,6.2,0.76,Active
+500,13,Beard Oil,330440,116.38,1.24,Active
+501,13,Premium Face Cream,330467,28.85,0.52,Active
+502,13,Premium Shampoo Bottle,330570,108.57,0.43,Active
+503,13,Premium Perfume,330396,113.71,1.97,Active
+504,13,Premium Lipstick,330469,92.56,1.57,Active
+505,13,Premium Body Lotion,330474,63.77,1.93,Active
+506,13,Premium Sunscreen Lotion,330435,96.35,0.32,Active
+507,13,Premium Hair Conditioner,330542,7.21,0.99,Active
+508,13,Premium Facial Cleanser,330457,66.99,0.25,Active
+509,13,Premium Deodorant Spray,330776,102.29,0.61,Active
+510,13,Premium Nail Polish,330430,33.46,1.82,Active
+511,13,Premium Talcum Powder,330428,99.89,0.23,Active
+512,13,Premium Shaving Cream,330738,98.19,1.78,Active
+513,13,Premium Hair Oil,330513,50.37,0.82,Active
+514,13,Premium Toothpaste,330657,29.06,1.99,Active
+515,13,Premium Bar Soap,340157,27.72,0.67,Active
+516,13,Premium Hand Sanitizer,380822,100.86,1.32,Active
+517,13,Premium Skin Serum,330428,17.37,0.61,Active
+518,13,Premium Makeup Foundation,330470,83.83,0.32,Active
+519,13,Premium Eye Shadow Palette,330470,54.38,0.06,Active
+520,13,Premium Beard Oil,330420,3.26,0.47,Active
+521,14,Portland Cement,252329,1372.1,3637.54,Active
+522,14,Steel Rebar,721477,1058.25,3881.98,Active
+523,14,Ceramic Floor Tiles,690740,753.02,243.51,Active
+524,14,Marble Slab,680263,1597.45,3115.94,Active
+525,14,Granite Block,251618,277.32,4526.21,Active
+526,14,Bricks,690486,1340.23,3161.61,Active
+527,14,Sand,250583,605.0,722.17,Active
+528,14,Gravel Aggregate,251764,4.11,1767.32,Active
+529,14,Roofing Sheet,721083,1041.54,3323.53,Active
+530,14,Glass Panel,700520,1308.81,1806.22,Active
+531,14,Gypsum Board,680977,1360.3,3933.13,Active
+532,14,Insulation Foam Board,392174,1385.47,1955.32,Active
+533,14,PVC Window Frame,392570,109.03,1937.47,Active
+534,14,Wood Plywood,441257,634.27,86.13,Active
+535,14,Paint Bucket,320918,862.14,3666.04,Active
+536,14,Waterproofing Membrane,680790,259.34,2911.61,Active
+537,14,Steel Beam,721652,333.7,1764.73,Active
+538,14,Concrete Blocks,681053,2033.81,879.57,Active
+539,14,Plaster of Paris,252097,1161.66,3478.47,Active
+540,14,Wall Putty,321490,455.86,678.59,Active
+541,14,Premium Portland Cement,252368,92.65,1011.95,Active
+542,14,Premium Steel Rebar,721435,2214.5,1581.4,Active
+543,14,Premium Ceramic Floor Tiles,690749,1288.56,4945.67,Active
+544,14,Premium Marble Slab,680279,1183.6,187.92,Active
+545,14,Premium Granite Block,251692,477.92,1788.09,Active
+546,14,Premium Bricks,690416,2164.52,1662.96,Active
+547,14,Premium Sand,250525,1998.4,2187.57,Active
+548,14,Premium Gravel Aggregate,251761,1858.32,4473.71,Active
+549,14,Premium Roofing Sheet,721059,847.72,938.15,Active
+550,14,Premium Glass Panel,700598,1243.91,4621.93,Active
+551,14,Premium Gypsum Board,680976,666.95,417.64,Active
+552,14,Premium Insulation Foam Board,392164,197.5,3014.25,Active
+553,14,Premium PVC Window Frame,392533,1363.78,1609.45,Active
+554,14,Premium Wood Plywood,441220,819.93,1481.72,Active
+555,14,Premium Paint Bucket,320967,1506.63,2133.45,Active
+556,14,Premium Waterproofing Membrane,680798,1109.88,2238.41,Active
+557,14,Premium Steel Beam,721655,1537.21,2177.53,Active
+558,14,Premium Concrete Blocks,681091,2450.07,4739.78,Active
+559,14,Premium Plaster of Paris,252019,1678.03,2034.02,Active
+560,14,Premium Wall Putty,321475,2002.78,3398.66,Active
+561,15,Aircraft Turbine Engine,841113,71561.18,2430.49,Active
+562,15,Aircraft Landing Gear,880366,17592.52,269.4,Active
+563,15,Avionics Control Panel,901492,183290.97,1531.73,Active
+564,15,Aircraft Seat,940182,16386.18,614.18,Active
+565,15,Propeller Blade,880367,474422.0,1488.37,Active
+566,15,Helicopter Rotor Blade,880319,287046.1,2118.07,Active
+567,15,Aircraft Wing Component,880360,157329.84,1115.12,Active
+568,15,Cockpit Instrument Panel,901424,13151.49,744.6,Active
+569,15,Aircraft Fuel Pump,841376,193616.29,2246.91,Active
+570,15,Drone Aircraft,880643,387527.25,2816.3,Active
+571,15,Satellite Component,880237,498183.28,1142.66,Active
+572,15,Aircraft Wheel Assembly,880372,100249.13,543.35,Active
+573,15,Jet Engine Turbine Blade,841119,226130.93,3594.77,Active
+574,15,Aircraft Navigation System,901466,498631.75,3242.15,Active
+575,15,Cabin Pressure Valve,848450,333986.33,2838.31,Active
+576,15,Aircraft Hydraulic Actuator,841280,271177.25,3565.38,Active
+577,15,Radar Antenna Unit,852630,355962.19,3709.33,Active
+578,15,Aircraft Battery Pack,850791,87210.69,1446.29,Active
+579,15,Flight Data Recorder,901438,60856.96,804.32,Active
+580,15,Aircraft Window Panel,700727,118520.74,1976.34,Active
+581,15,Premium Aircraft Turbine Engine,841156,277099.91,1475.96,Active
+582,15,Premium Aircraft Landing Gear,880380,65059.66,3537.04,Active
+583,15,Premium Avionics Control Panel,901418,154783.5,3998.38,Active
+584,15,Premium Aircraft Seat,940171,262942.69,3076.77,Active
+585,15,Premium Propeller Blade,880383,37060.61,3889.53,Active
+586,15,Premium Helicopter Rotor Blade,880392,37267.68,1863.6,Active
+587,15,Premium Aircraft Wing Component,880376,172388.49,3511.9,Active
+588,15,Premium Cockpit Instrument Panel,901480,319969.01,728.26,Active
+589,15,Premium Aircraft Fuel Pump,841326,216422.62,3642.89,Active
+590,15,Premium Drone Aircraft,880617,415729.13,2072.65,Active
+591,15,Premium Satellite Component,880248,82495.61,1290.98,Active
+592,15,Premium Aircraft Wheel Assembly,880338,173142.34,3763.65,Active
+593,15,Premium Jet Engine Turbine Blade,841146,422997.67,1002.8,Active
+594,15,Premium Aircraft Navigation System,901491,478184.54,1098.17,Active
+595,15,Premium Cabin Pressure Valve,848490,151551.74,2134.15,Active
+596,15,Premium Aircraft Hydraulic Actuator,841274,320565.52,2367.44,Active
+597,15,Premium Radar Antenna Unit,852684,77266.29,2635.1,Active
+598,15,Premium Aircraft Battery Pack,850787,168942.27,3695.76,Active
+599,15,Premium Flight Data Recorder,901415,412653.09,113.98,Active
+600,15,Premium Aircraft Window Panel,700715,474283.72,3084.2,Active
+601,16,Digital Thermometer,902543,117205.14,1150.45,Active
+602,16,Blood Pressure Monitor,901863,111261.43,45.48,Active
+603,16,Stethoscope,901890,98206.22,962.88,Active
+604,16,X-Ray Machine,902248,86932.65,1207.04,Active
+605,16,Surgical Scalpel,901897,73099.62,680.34,Active
+606,16,Wheelchair,871398,10789.05,659.44,Active
+607,16,Hospital Bed,940271,83602.27,510.32,Active
+608,16,Ultrasound Scanner,901828,56268.29,1077.56,Active
+609,16,Dialysis Machine,901854,175567.47,196.19,Active
+610,16,Oxygen Concentrator,901957,92698.85,159.32,Active
+611,16,ECG Machine,901840,83967.73,401.24,Active
+612,16,Infusion Pump,901841,25362.27,75.96,Active
+613,16,Surgical Gloves,401559,155550.17,627.23,Active
+614,16,Syringe,901830,146426.94,1400.63,Active
+615,16,MRI Scanner Component,901850,34174.19,239.06,Active
+616,16,Nebulizer,901975,84029.39,1318.62,Active
+617,16,Pulse Oximeter,901873,4176.62,1417.85,Active
+618,16,Hearing Aid,902174,82304.23,361.13,Active
+619,16,Dental Chair,940284,63524.35,75.86,Active
+620,16,Defibrillator,901873,107555.39,1264.28,Active
+621,16,Premium Digital Thermometer,902596,84708.28,805.06,Active
+622,16,Premium Blood Pressure Monitor,901823,77569.84,1323.69,Active
+623,16,Premium Stethoscope,901856,137495.4,548.94,Active
+624,16,Premium X-Ray Machine,902261,9213.13,842.75,Active
+625,16,Premium Surgical Scalpel,901856,99582.36,110.34,Active
+626,16,Premium Wheelchair,871374,81066.54,824.81,Active
+627,16,Premium Hospital Bed,940289,122473.35,178.26,Active
+628,16,Premium Ultrasound Scanner,901822,70905.7,1192.36,Active
+629,16,Premium Dialysis Machine,901853,100411.94,548.44,Active
+630,16,Premium Oxygen Concentrator,901928,35834.42,763.71,Active
+631,16,Premium ECG Machine,901874,7250.68,58.42,Active
+632,16,Premium Infusion Pump,901852,144714.83,779.02,Active
+633,16,Premium Surgical Gloves,401529,109128.86,773.28,Active
+634,16,Premium Syringe,901851,167646.72,477.83,Active
+635,16,Premium MRI Scanner Component,901860,178310.88,1108.99,Active
+636,16,Premium Nebulizer,901948,106872.47,761.0,Active
+637,16,Premium Pulse Oximeter,901875,95823.51,1063.12,Active
+638,16,Premium Hearing Aid,902148,85483.29,25.0,Active
+639,16,Premium Dental Chair,940252,121286.78,1469.85,Active
+640,16,Premium Defibrillator,901884,55385.47,1348.16,Active
+641,17,Plastic Toy Set,950398,188.96,8.97,Active
+642,17,Ballpoint Pens,960843,290.14,11.75,Active
+643,17,School Backpack,420284,173.5,10.83,Active
+644,17,Wristwatch,910284,144.39,7.89,Active
+645,17,Sunglasses,900489,232.49,5.73,Active
+646,17,Umbrella,660197,73.04,8.61,Active
+647,17,Luggage Suitcase,420299,33.41,0.33,Active
+648,17,Wallet,420250,125.92,6.22,Active
+649,17,Handbag,420236,123.41,11.64,Active
+650,17,Kitchen Utensil Set,821570,261.91,11.05,Active
+651,17,Water Bottle,392417,211.88,7.8,Active
+652,17,Board Game,950481,97.85,9.95,Active
+653,17,Stationery Set,482077,113.36,14.35,Active
+654,17,Toothbrush Pack,960368,273.68,5.17,Active
+655,17,Hair Comb,961555,202.92,13.02,Active
+656,17,Candle Set,340697,193.17,10.42,Active
+657,17,Party Decoration Kit,950588,145.51,14.36,Active
+658,17,Cleaning Brush,960345,167.65,3.41,Active
+659,17,Storage Basket,460248,231.47,10.59,Active
+660,17,Picture Frame,441498,211.64,4.79,Active
+661,17,Premium Plastic Toy Set,950354,168.37,14.02,Active
+662,17,Premium Ballpoint Pens,960845,86.69,8.62,Active
+663,17,Premium School Backpack,420279,114.22,14.7,Active
+664,17,Premium Wristwatch,910254,286.41,12.08,Active
+665,17,Premium Sunglasses,900447,13.1,14.33,Active
+666,17,Premium Umbrella,660120,104.24,6.66,Active
+667,17,Premium Luggage Suitcase,420242,224.33,3.25,Active
+668,17,Premium Wallet,420278,81.7,8.45,Active
+669,17,Premium Handbag,420244,41.61,9.25,Active
+670,17,Premium Kitchen Utensil Set,821585,72.16,0.81,Active
+671,17,Premium Water Bottle,392477,68.09,3.53,Active
+672,17,Premium Board Game,950422,124.28,10.77,Active
+673,17,Premium Stationery Set,482022,204.52,2.11,Active
+674,17,Premium Toothbrush Pack,960380,293.38,2.41,Active
+675,17,Premium Hair Comb,961593,280.54,13.18,Active
+676,17,Premium Candle Set,340671,195.34,11.35,Active
+677,17,Premium Party Decoration Kit,950546,96.69,9.71,Active
+678,17,Premium Cleaning Brush,960321,195.86,3.52,Active
+679,17,Premium Storage Basket,460214,274.01,2.67,Active
+680,17,Premium Picture Frame,441432,280.21,0.59,Active
+681,18,Corrugated Cardboard Box,481960,63.25,111.87,Active
+682,18,Kraft Paper Roll,480447,70.26,5.66,Active
+683,18,Printing Paper Ream,480282,48.62,557.08,Active
+684,18,Tissue Paper,481852,23.48,593.46,Active
+685,18,Paper Bag,481979,42.42,533.57,Active
+686,18,Cardboard Carton,481927,68.23,280.87,Active
+687,18,Newsprint Roll,480134,64.9,198.48,Active
+688,18,Wrapping Paper,481168,52.21,431.19,Active
+689,18,Paper Cup,482311,59.19,474.48,Active
+690,18,Envelope Pack,481782,54.28,115.98,Active
+691,18,Paperboard Sheet,481088,68.64,538.24,Active
+692,18,Sticker Label Roll,482164,41.71,52.13,Active
+693,18,Gift Wrapping Paper,481195,8.54,589.01,Active
+694,18,Paper Plate,482371,26.56,148.9,Active
+695,18,Notebook,482043,31.3,268.1,Active
+696,18,Packaging Tape,391944,76.37,181.24,Active
+697,18,Bubble Wrap Roll,392383,1.9,392.24,Active
+698,18,Shipping Label,482198,19.67,400.7,Active
+699,18,Cement Paper Bag,481969,25.24,243.31,Active
+700,18,Book Printing Paper,480274,73.93,532.69,Active
+701,18,Premium Corrugated Cardboard Box,481949,55.53,383.26,Active
+702,18,Premium Kraft Paper Roll,480447,30.04,132.59,Active
+703,18,Premium Printing Paper Ream,480227,38.78,273.04,Active
+704,18,Premium Tissue Paper,481887,30.52,421.19,Active
+705,18,Premium Paper Bag,481970,60.83,481.22,Active
+706,18,Premium Cardboard Carton,481937,61.19,408.24,Active
+707,18,Premium Newsprint Roll,480186,69.98,49.21,Active
+708,18,Premium Wrapping Paper,481167,42.73,217.13,Active
+709,18,Premium Paper Cup,482382,9.86,497.28,Active
+710,18,Premium Envelope Pack,481774,16.97,322.04,Active
+711,18,Premium Paperboard Sheet,481031,26.92,312.25,Active
+712,18,Premium Sticker Label Roll,482124,54.74,430.18,Active
+713,18,Premium Gift Wrapping Paper,481172,8.18,306.27,Active
+714,18,Premium Paper Plate,482317,36.82,308.0,Active
+715,18,Premium Notebook,482068,45.55,335.32,Active
+716,18,Premium Packaging Tape,391996,64.75,434.0,Active
+717,18,Premium Bubble Wrap Roll,392360,21.1,1.91,Active
+718,18,Premium Shipping Label,482137,46.69,27.27,Active
+719,18,Premium Cement Paper Bag,481954,56.33,324.74,Active
+720,18,Premium Book Printing Paper,480217,74.83,41.5,Active
+721,19,Gold Necklace,711370,1606.11,0.82,Active
+722,19,Diamond Ring,711327,38296.07,1.96,Active
+723,19,Silver Bracelet,711392,48189.85,0.75,Active
+724,19,Pearl Earrings,711358,22437.89,1.83,Active
+725,19,Ruby Pendant,711358,18794.76,1.37,Active
+726,19,Sapphire Ring,711394,43730.2,0.27,Active
+727,19,Gold Chain,711354,5949.29,1.99,Active
+728,19,Platinum Wedding Band,711360,26451.55,1.46,Active
+729,19,Emerald Necklace,711338,41744.38,1.51,Active
+730,19,Gold Bangle,711348,23160.93,1.44,Active
+731,19,Diamond Stud Earrings,711364,26606.04,1.65,Active
+732,19,Silver Anklet,711341,23042.05,0.31,Active
+733,19,Gemstone Brooch,711334,46871.77,1.45,Active
+734,19,Gold Coin,711324,1630.22,1.32,Active
+735,19,Cufflinks,711388,38307.35,1.77,Active
+736,19,Tiara Headpiece,711312,12048.5,0.14,Active
+737,19,Gold Watch Bracelet,711386,1698.14,1.2,Active
+738,19,Turquoise Necklace,711316,12251.81,0.09,Active
+739,19,Amethyst Ring,711366,11732.28,0.44,Active
+740,19,Opal Pendant,711317,7023.98,1.99,Active
+741,19,Premium Gold Necklace,711339,40793.0,1.46,Active
+742,19,Premium Diamond Ring,711350,28882.19,1.55,Active
+743,19,Premium Silver Bracelet,711351,11860.46,1.75,Active
+744,19,Premium Pearl Earrings,711394,26072.13,0.83,Active
+745,19,Premium Ruby Pendant,711345,3066.66,1.9,Active
+746,19,Premium Sapphire Ring,711332,31307.14,0.86,Active
+747,19,Premium Gold Chain,711373,2363.27,0.69,Active
+748,19,Premium Platinum Wedding Band,711392,33573.7,1.57,Active
+749,19,Premium Emerald Necklace,711350,34821.49,0.82,Active
+750,19,Premium Gold Bangle,711348,18835.48,1.51,Active
+751,19,Premium Diamond Stud Earrings,711370,12063.59,0.45,Active
+752,19,Premium Silver Anklet,711328,40292.69,1.83,Active
+753,19,Premium Gemstone Brooch,711381,20645.62,0.84,Active
+754,19,Premium Gold Coin,711377,6721.96,0.49,Active
+755,19,Premium Cufflinks,711336,16526.54,0.16,Active
+756,19,Premium Tiara Headpiece,711367,42359.73,0.19,Active
+757,19,Premium Gold Watch Bracelet,711334,2595.8,0.76,Active
+758,19,Premium Turquoise Necklace,711387,30154.04,1.75,Active
+759,19,Premium Amethyst Ring,711334,40236.44,1.18,Active
+760,19,Premium Opal Pendant,711395,27951.35,0.96,Active
+761,20,Fiber Optic Cable,900152,7583.18,1817.99,Active
+762,20,Mobile Network Antenna,851737,23429.31,1924.16,Active
+763,20,Telephone Handset,851725,18673.25,1508.67,Active
+764,20,VoIP Phone System,851741,17392.18,1407.55,Active
+765,20,Network Switch,851760,22878.59,1104.18,Active
+766,20,Satellite Dish Antenna,852546,9519.64,1067.32,Active
+767,20,Modem Device,851755,7714.01,719.32,Active
+768,20,Signal Repeater,851773,11652.77,1605.64,Active
+769,20,Telecom Base Station,851770,19041.92,640.5,Active
+770,20,PBX Exchange Unit,851736,9270.77,827.89,Active
+771,20,Ethernet Cable,854482,21602.8,1482.52,Active
+772,20,Wireless Access Point,851712,6523.05,1869.52,Active
+773,20,Optical Transceiver Module,851784,18001.7,590.42,Active
+774,20,Telecom Server Rack,847135,8249.98,759.71,Active
+775,20,SIM Card Reader Module,854241,12485.04,1309.23,Active
+776,20,Radio Transmitter,852597,8442.42,1526.73,Active
+777,20,Broadband Router,851772,24162.87,1283.41,Active
+778,20,Cable Connector,853672,11523.42,1465.56,Active
+779,20,Telecom Tower Component,730855,4235.8,1440.64,Active
+780,20,5G Network Module,851772,4605.27,1778.73,Active
+781,20,Premium Fiber Optic Cable,900192,23931.14,1047.91,Active
+782,20,Premium Mobile Network Antenna,851719,23629.98,1336.45,Active
+783,20,Premium Telephone Handset,851710,10312.74,1685.1,Active
+784,20,Premium VoIP Phone System,851739,1703.86,302.1,Active
+785,20,Premium Network Switch,851737,12645.79,746.43,Active
+786,20,Premium Satellite Dish Antenna,852589,15945.03,1867.81,Active
+787,20,Premium Modem Device,851771,16483.81,31.51,Active
+788,20,Premium Signal Repeater,851778,13793.33,23.75,Active
+789,20,Premium Telecom Base Station,851777,18056.21,1071.5,Active
+790,20,Premium PBX Exchange Unit,851746,433.48,1626.32,Active
+791,20,Premium Ethernet Cable,854496,10767.18,1879.43,Active
+792,20,Premium Wireless Access Point,851732,2679.88,192.67,Active
+793,20,Premium Optical Transceiver Module,851729,6028.02,1239.58,Active
+794,20,Premium Telecom Server Rack,847142,20381.28,534.69,Active
+795,20,Premium SIM Card Reader Module,854260,1980.09,1918.6,Active
+796,20,Premium Radio Transmitter,852568,14127.23,1980.47,Active
+797,20,Premium Broadband Router,851738,7502.87,1656.13,Active
+798,20,Premium Cable Connector,853620,16345.12,1716.45,Active
+799,20,Premium Telecom Tower Component,730814,2342.05,758.56,Active
+800,20,Premium 5G Network Module,851780,11902.75,1273.51,Active

@@ -1,0 +1,301 @@
+﻿Warehouse_ID,Warehouse_Name,Country_ID,Capacity
+1,Cascade Tashkent Fulfillment Center,188,244330
+2,Harbor Seoul Industrial Warehouse,162,277923
+3,Skyline Amsterdam Industrial Warehouse,122,21366
+4,Horizon Dhaka Cargo Warehouse,14,74397
+5,Skyline Tokyo Distribution Center,85,93728
+6,Apex Brussels Fulfillment Center,17,236167
+7,Atlantic Athens Storage Facility,66,77455
+8,Eastgate Yaren Cargo Warehouse,120,273208
+9,Central Port Moresby Cargo Warehouse,135,150923
+10,Metro Cairo Freight Depot,51,221318
+11,Gateway Islamabad Fulfillment Center,131,86406
+12,Gateway Brussels Industrial Warehouse,17,126187
+13,Northline Maputo Fulfillment Center,117,80506
+14,Central Bandar Seri Begawan Logistics Warehouse,25,32117
+15,Vertex Singapore Freight Depot,156,176895
+16,Atlantic Kingston Distribution Center,84,206514
+17,Summit Manila Storage Facility,138,109415
+18,Union Bern Cargo Warehouse,169,105140
+19,Atlantic Freetown Freight Depot,155,256714
+20,Horizon Yaren Industrial Warehouse,120,110167
+21,National London Logistics Warehouse,185,227059
+22,Vertex Sarajevo Cold Storage Facility,22,7076
+23,Summit Luxembourg Cold Storage Facility,100,17001
+24,Southline Riyadh Fulfillment Center,151,168105
+25,Pacific Jakarta Container Freight Station,77,256028
+26,Meridian Ljubljana Fulfillment Center,158,98959
+27,Westgate New Delhi Cargo Warehouse,76,75154
+28,Continental Libreville Industrial Warehouse,61,173767
+29,Prime Manila Distribution Center,138,133748
+30,Metro Port of Spain Freight Depot,177,202076
+31,Continental Amsterdam Fulfillment Center,122,139890
+32,Southline Ankara Industrial Warehouse,179,180158
+33,Horizon London Storage Facility,185,295365
+34,Metro Naypyidaw Distribution Center,118,284046
+35,Meridian Abuja Distribution Center,126,231198
+36,Gateway Bern Industrial Warehouse,169,81605
+37,Anchor Ramallah Fulfillment Center,133,197831
+38,Atlantic Brussels Bonded Warehouse,17,227182
+39,Interstate Bangkok Distribution Center,173,268470
+40,Union London Distribution Center,185,181590
+41,Metro Tokyo Cold Storage Facility,85,47750
+42,Northline Ashgabat Distribution Center,180,23881
+43,Eastgate Manama Cold Storage Facility,13,38174
+44,Anchor Manama Industrial Warehouse,13,278032
+45,Apex Havana Freight Depot,43,59941
+46,Interstate Port Moresby Cold Storage Facility,135,45637
+47,Interstate Algiers Container Freight Station,3,37345
+48,Westgate Manila Cold Storage Facility,138,16203
+49,Crossroads Seoul Freight Depot,162,35628
+50,Continental Asuncion Bonded Warehouse,136,112235
+51,Interstate Copenhagen Freight Depot,46,204969
+52,Pacific Kuala Lumpur Industrial Warehouse,103,68162
+53,Sunrise Tashkent Fulfillment Center,188,218187
+54,Eastgate Dhaka Cold Storage Facility,14,21280
+55,Pacific San Jose Cold Storage Facility,41,43653
+56,Gateway Kuala Lumpur Cargo Warehouse,103,133506
+57,Meridian Apia Storage Facility,148,132176
+58,Crossroads London Industrial Warehouse,185,97633
+59,Prime Dodoma Cargo Warehouse,172,273325
+60,Atlantic Bratislava Storage Facility,157,95976
+61,Continental Hanoi Cargo Warehouse,192,45743
+62,Horizon Ulaanbaatar Container Freight Station,114,54451
+63,Vertex Riga Cold Storage Facility,93,6575
+64,Cascade Ottawa Distribution Center,32,61170
+65,Cascade Stockholm Cargo Warehouse,168,16229
+66,Meridian Wellington Bonded Warehouse,123,217849
+67,Summit Abu Dhabi Fulfillment Center,184,69771
+68,Anchor Brasilia Industrial Warehouse,24,207546
+69,Continental Caracas Storage Facility,191,192085
+70,National Washington D.C. Storage Facility,186,11394
+71,Crossroads Havana Logistics Warehouse,43,39874
+72,National Mexico City Bonded Warehouse,110,278376
+73,Frontier Harare Distribution Center,195,15284
+74,Continental Djibouti Bonded Warehouse,47,316779
+75,Vertex Cairo Industrial Warehouse,51,237577
+76,Southline Panama City Freight Depot,134,237363
+77,Anchor Islamabad Logistics Warehouse,131,200390
+78,Central London Logistics Warehouse,185,273956
+79,Atlantic Sanaa Fulfillment Center,193,257325
+80,Horizon Mexico City Logistics Warehouse,110,189881
+81,Harbor Amsterdam Storage Facility,122,264464
+82,Gateway Paris Cargo Warehouse,60,217388
+83,Apex Brussels Industrial Warehouse,17,232186
+84,Apex Bissau Fulfillment Center,70,90136
+85,Metro Dhaka Cold Storage Facility,14,8729
+86,Horizon Niamey Fulfillment Center,125,282124
+87,Cascade Ankara Storage Facility,179,180242
+88,Summit Santiago Cargo Warehouse,35,28931
+89,Harbor Monaco Cargo Warehouse,113,68989
+90,Union New Delhi Cargo Warehouse,76,8687
+91,Prime Luxembourg Distribution Center,100,70914
+92,Southline Abuja Container Freight Station,126,489113
+93,Crossroads San Marino Cargo Warehouse,149,139369
+94,Horizon Ankara Cargo Warehouse,179,262301
+95,Northline Nairobi Cargo Warehouse,88,33029
+96,Continental Djibouti Industrial Warehouse,47,21206
+97,Horizon Bern Container Freight Station,169,395322
+98,Summit Podgorica Logistics Warehouse,115,98031
+99,Eastgate Ankara Storage Facility,179,161754
+100,Summit Nuku'alofa Distribution Center,176,218044
+101,Meridian Hanoi Distribution Center,192,127704
+102,Prime Singapore Storage Facility,156,292116
+103,Frontier Beijing Cold Storage Facility,36,31351
+104,Westgate Moscow Container Freight Station,143,132496
+105,Apex Brussels Freight Depot,17,207230
+106,Apex Santiago Freight Depot,35,77229
+107,Southline Ankara Freight Depot,179,90589
+108,Regional Funafuti Storage Facility,181,252778
+109,Regional Kathmandu Bonded Warehouse,121,499320
+110,Anchor Pretoria Cold Storage Facility,161,22449
+111,Union Doha Cold Storage Facility,141,39655
+112,Sunrise Gitega Cargo Warehouse,28,111607
+113,Regional Vatican City Cargo Warehouse,190,22481
+114,Frontier Moscow Cold Storage Facility,143,29611
+115,Crossroads Rome Storage Facility,82,163982
+116,Horizon Abu Dhabi Logistics Warehouse,184,264223
+117,Sunrise Jakarta Logistics Warehouse,77,176872
+118,National Canberra Industrial Warehouse,9,275774
+119,Southline Bern Logistics Warehouse,169,241945
+120,Horizon Mbabane Freight Depot,56,122669
+121,Southline Lima Container Freight Station,137,409223
+122,Harbor Singapore Storage Facility,156,66472
+123,Regional Tokyo Logistics Warehouse,85,11659
+124,Apex London Container Freight Station,185,36079
+125,Harbor Hanoi Container Freight Station,192,77529
+126,Prime Prague Freight Depot,45,141391
+127,Cascade Berlin Logistics Warehouse,64,90767
+128,Northline Panama City Fulfillment Center,134,181600
+129,Continental Bangkok Logistics Warehouse,173,103830
+130,Atlantic Athens Cold Storage Facility,66,5623
+131,Interstate N'Djamena Cargo Warehouse,34,11838
+132,Eastgate Mogadishu Bonded Warehouse,160,221810
+133,Horizon Bogota Fulfillment Center,37,180853
+134,Westgate Mexico City Container Freight Station,110,243288
+135,Interstate Yaren Cold Storage Facility,120,13440
+136,Gateway Brasilia Storage Facility,24,23683
+137,Metro San Salvador Industrial Warehouse,52,21517
+138,Northline Port Louis Logistics Warehouse,109,131392
+139,Harbor Mexico City Distribution Center,110,297870
+140,National Washington D.C. Fulfillment Center,186,187850
+141,Apex Saint John's Freight Depot,6,150163
+142,Sunrise Bogota Distribution Center,37,210758
+143,Crossroads Tokyo Storage Facility,85,259746
+144,Westgate Islamabad Cold Storage Facility,131,40816
+145,National Bridgetown Container Freight Station,15,347605
+146,Atlantic Algiers Container Freight Station,3,242520
+147,Metro Mogadishu Bonded Warehouse,160,333874
+148,Atlantic Abu Dhabi Logistics Warehouse,184,191871
+149,Eastgate Riga Distribution Center,93,14209
+150,Union Bern Bonded Warehouse,169,369465
+151,Sunrise Port-au-Prince Logistics Warehouse,72,289832
+152,Vertex Saint George's Fulfillment Center,67,135677
+153,Prime Manama Storage Facility,13,31338
+154,Union Abuja Distribution Center,126,106121
+155,Gateway Belgrade Fulfillment Center,153,281721
+156,Pacific Brasilia Freight Depot,24,259748
+157,Skyline Paris Storage Facility,60,105793
+158,National Bogota Bonded Warehouse,37,241643
+159,Northline Brussels Distribution Center,17,41147
+160,Global Riyadh Industrial Warehouse,151,201370
+161,Pacific Niamey Cargo Warehouse,125,195583
+162,Prime Bangkok Container Freight Station,173,10290
+163,Westgate Bern Industrial Warehouse,169,257280
+164,Global Islamabad Freight Depot,131,146480
+165,Skyline Yaounde Bonded Warehouse,31,336169
+166,Central Havana Fulfillment Center,43,196187
+167,Skyline Oslo Freight Depot,129,150566
+168,Atlantic Buenos Aires Logistics Warehouse,7,110029
+169,Northline Skopje Cold Storage Facility,128,16202
+170,Vertex Porto-Novo Container Freight Station,19,84817
+171,Metro Helsinki Bonded Warehouse,59,205491
+172,Eastgate Kuala Lumpur Cargo Warehouse,103,126973
+173,National London Fulfillment Center,185,29916
+174,Southline Gaborone Freight Depot,23,290160
+175,Metro Dili Bonded Warehouse,174,350585
+176,Metro Port-au-Prince Storage Facility,72,46461
+177,Horizon Bern Cold Storage Facility,169,9450
+178,Northline Bratislava Storage Facility,157,65508
+179,Global Dhaka Freight Depot,14,77733
+180,Eastgate Windhoek Distribution Center,119,256230
+181,National Abuja Fulfillment Center,126,73434
+182,Pacific Kinshasa Logistics Warehouse,40,231552
+183,Frontier Madrid Container Freight Station,164,119089
+184,Prime Beijing Freight Depot,36,186216
+185,Crossroads Seoul Logistics Warehouse,162,95062
+186,Global Amman Freight Depot,86,91705
+187,Regional Kuwait City Industrial Warehouse,90,145658
+188,Vertex New Delhi Storage Facility,76,16688
+189,Regional Roseau Industrial Warehouse,48,60070
+190,Union Kigali Cargo Warehouse,144,263197
+191,Summit Singapore Logistics Warehouse,156,22851
+192,National Naypyidaw Cargo Warehouse,118,286088
+193,Skyline Zagreb Logistics Warehouse,42,248192
+194,Global Addis Ababa Bonded Warehouse,57,120582
+195,Atlantic Madrid Logistics Warehouse,164,79767
+196,Vertex Bogota Cargo Warehouse,37,72449
+197,Eastgate Paris Industrial Warehouse,60,182711
+198,Frontier Vatican City Industrial Warehouse,190,45093
+199,Summit Phnom Penh Bonded Warehouse,30,442156
+200,Anchor Paris Container Freight Station,60,231222
+201,Regional Riyadh Storage Facility,151,268157
+202,Eastgate Bridgetown Storage Facility,15,236782
+203,Global Pretoria Distribution Center,161,92671
+204,Global Ashgabat Industrial Warehouse,180,47510
+205,Vertex Kampala Logistics Warehouse,182,270107
+206,Vertex Khartoum Freight Depot,166,273794
+207,Interstate Panama City Freight Depot,134,159052
+208,Southline Bandar Seri Begawan Distribution Center,25,121790
+209,Prime Muscat Container Freight Station,130,220430
+210,Southline New Delhi Bonded Warehouse,76,453517
+211,Apex Kigali Logistics Warehouse,144,110956
+212,Regional N'Djamena Storage Facility,34,225830
+213,Prime Bamako Freight Depot,105,230606
+214,Sunrise Rome Fulfillment Center,82,250448
+215,Summit Warsaw Logistics Warehouse,139,32518
+216,Meridian Canberra Bonded Warehouse,9,317210
+217,Pacific Ashgabat Container Freight Station,180,22244
+218,Southline Madrid Industrial Warehouse,164,276734
+219,Anchor Cairo Industrial Warehouse,51,259070
+220,Gateway Rome Container Freight Station,82,236465
+221,Prime Algiers Cold Storage Facility,3,5266
+222,Central Podgorica Freight Depot,115,206660
+223,Skyline Helsinki Logistics Warehouse,59,162871
+224,Apex Nicosia Industrial Warehouse,44,273344
+225,Sunrise Apia Fulfillment Center,148,219256
+226,Southline Dhaka Logistics Warehouse,14,103363
+227,Global Khartoum Industrial Warehouse,166,82608
+228,Union Mexico City Cold Storage Facility,110,38101
+229,Frontier Amsterdam Cargo Warehouse,122,250811
+230,Crossroads Ottawa Freight Depot,32,130607
+231,Sunrise Gaborone Bonded Warehouse,23,90717
+232,Anchor Rome Fulfillment Center,82,189396
+233,Southline Mogadishu Storage Facility,160,98134
+234,Prime Islamabad Industrial Warehouse,131,200410
+235,Skyline Tehran Logistics Warehouse,78,160478
+236,Southline Ouagadougou Cold Storage Facility,27,3168
+237,Regional Helsinki Freight Depot,59,51701
+238,Gateway Beijing Bonded Warehouse,36,61954
+239,Central Caracas Industrial Warehouse,191,169570
+240,Gateway Ottawa Distribution Center,32,284069
+241,Central Canberra Freight Depot,9,257155
+242,Summit Caracas Storage Facility,191,118644
+243,Harbor Abuja Container Freight Station,126,219175
+244,Skyline Basseterre Logistics Warehouse,145,213384
+245,Union Ankara Distribution Center,179,88480
+246,Westgate Porto-Novo Logistics Warehouse,19,269522
+247,Regional Tbilisi Distribution Center,63,21936
+248,Southline Berlin Industrial Warehouse,64,256941
+249,National Ankara Cold Storage Facility,179,59467
+250,Southline Kuala Lumpur Container Freight Station,103,434537
+251,Gateway Georgetown Logistics Warehouse,71,50011
+252,Frontier Antananarivo Freight Depot,101,142039
+253,Global Rome Container Freight Station,82,261289
+254,Sunrise Bern Bonded Warehouse,169,338040
+255,Metro Brussels Logistics Warehouse,17,277711
+256,Vertex Santo Domingo Container Freight Station,49,316898
+257,Interstate Bern Fulfillment Center,169,246399
+258,Union N'Djamena Bonded Warehouse,34,477905
+259,Gateway Hanoi Logistics Warehouse,192,158898
+260,Cascade Singapore Logistics Warehouse,156,36227
+261,Central San Jose Freight Depot,41,44849
+262,Sunrise Bratislava Bonded Warehouse,157,319069
+263,Horizon Beijing Cold Storage Facility,36,27618
+264,National Gaborone Storage Facility,23,154928
+265,Atlantic Kuala Lumpur Industrial Warehouse,103,65142
+266,Meridian Amsterdam Bonded Warehouse,122,442790
+267,Skyline Pretoria Bonded Warehouse,161,475027
+268,Frontier Hanoi Logistics Warehouse,192,63327
+269,Pacific Tokyo Container Freight Station,85,265301
+270,Frontier Saint John's Cargo Warehouse,6,192475
+271,Gateway Nuku'alofa Industrial Warehouse,176,53774
+272,Cascade Brasilia Logistics Warehouse,24,273192
+273,Horizon Gaborone Freight Depot,23,262867
+274,Central Sucre Storage Facility,21,127668
+275,Horizon Muscat Fulfillment Center,130,257037
+276,Vertex Apia Container Freight Station,148,331804
+277,Crossroads Warsaw Freight Depot,139,274444
+278,Metro Beijing Container Freight Station,36,304795
+279,Regional Ulaanbaatar Freight Depot,114,282667
+280,Apex Harare Bonded Warehouse,195,497630
+281,Eastgate Brasilia Logistics Warehouse,24,200378
+282,Atlantic Pretoria Industrial Warehouse,161,226687
+283,Pacific Maputo Logistics Warehouse,117,55287
+284,Apex Ottawa Container Freight Station,32,11107
+285,Meridian Lisbon Distribution Center,140,36419
+286,Skyline Minsk Container Freight Station,16,59479
+287,Anchor Algiers Bonded Warehouse,3,414354
+288,Apex Seoul Industrial Warehouse,162,87222
+289,Apex Colombo Fulfillment Center,165,145085
+290,Interstate Funafuti Cargo Warehouse,181,236032
+291,Vertex Abuja Fulfillment Center,126,238434
+292,Prime Asuncion Storage Facility,136,60498
+293,Summit Dublin Container Freight Station,80,319178
+294,Westgate Reykjavik Bonded Warehouse,75,418192
+295,Meridian Bandar Seri Begawan Cargo Warehouse,25,92282
+296,Metro Madrid Logistics Warehouse,164,137629
+297,Anchor Canberra Fulfillment Center,9,152084
+298,National Pretoria Logistics Warehouse,161,272385
+299,Southline Madrid Distribution Center,164,42499
+300,Skyline Saint John's Fulfillment Center,6,150018

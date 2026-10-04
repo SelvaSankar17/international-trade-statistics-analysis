@@ -1,0 +1,51 @@
+Shipping_Company_ID,Company_Name,Country_ID,Contact_Email,Phone
+1,Maersk Line,46,info@maersk.com,+886-877-893-287
+2,Mediterranean Shipping Company,169,info@mediterranean.com,+86-174-218-096
+3,CMA CGM Group,60,info@cmacgm.com,+886-929-081-003
+4,COSCO Shipping Lines,36,info@cosco.com,+82-907-579-383
+5,Hapag-Lloyd,64,info@hapag-lloyd.com,+41-701-746-814
+6,Ocean Network Express,156,info@oceannetwork.com,+47-384-019-161
+7,Evergreen Marine Corporation,36,info@evergreen.com,+41-610-033-076
+8,Yang Ming Marine Transport,36,info@yangming.com,+971-619-345-145
+9,HMM Co Ltd,162,info@hmm.com,+1-612-310-077
+10,ZIM Integrated Shipping Services,81,info@zimintegrated.com,+86-837-832-661
+11,Wan Hai Lines,36,info@wanhai.com,+971-630-494-032
+12,Pacific International Lines,156,info@pacific.com,+971-991-023-740
+13,APL Limited,156,info@apl.com,+47-461-113-930
+14,Hyundai Merchant Marine,162,info@hyundaimerchant.com,+30-597-297-926
+15,China Shipping Container Lines,36,info@chinacontainer.com,+86-243-933-283
+16,K Line Kawasaki Kisen Kaisha,85,info@kkawasaki.com,+971-791-601-108
+17,Mitsui OSK Lines,85,info@mitsuiosk.com,+45-364-697-482
+18,Nippon Yusen Kaisha NYK Line,85,info@nipponyusen.com,+49-237-899-143
+19,United Arab Shipping Company,184,info@unitedarab.com,+81-014-673-002
+20,Sinotrans Limited,36,info@sinotrans.com,+41-589-215-275
+21,DHL Global Forwarding,64,info@dhlglobal.com,+39-929-007-540
+22,FedEx Trade Networks,186,info@fedextrade.com,+1-917-145-211
+23,UPS Supply Chain Solutions,186,info@upssupply.com,+886-850-255-171
+24,Kuehne Nagel International,169,info@kuehnenagel.com,+27-079-096-690
+25,DB Schenker Logistics,64,info@dbschenker.com,+49-111-465-697
+26,DSV Panalpina,46,info@dsvpanalpina.com,+886-781-880-491
+27,Expeditors International,186,info@expeditors.com,+972-031-797-405
+28,CH Robinson Worldwide,186,info@chrobinson.com,+41-293-825-773
+29,Bollore Logistics,60,info@bollore.com,+47-643-633-639
+30,Nippon Express,85,info@nipponexpress.com,+47-322-750-142
+31,Sinokor Merchant Marine,162,info@sinokormerchant.com,+33-774-366-875
+32,Matson Navigation Company,186,info@matson.com,+886-510-490-495
+33,Crowley Maritime Corporation,186,info@crowleymaritime.com,+41-902-673-043
+34,Grimaldi Group,82,info@grimaldi.com,+65-017-185-133
+35,Wallenius Wilhelmsen,129,info@walleniuswilhelmsen.com,+972-420-780-234
+36,Stolt-Nielsen,129,info@stolt-nielsen.com,+30-888-926-316
+37,Teekay Shipping,32,info@teekay.com,+971-277-306-898
+38,Frontline Management,129,info@frontline.com,+47-753-113-361
+39,Euronav Shipping,17,info@euronav.com,+41-854-058-107
+40,Star Bulk Carriers,66,info@starbulk.com,+47-864-703-160
+41,Costamare Shipping,66,info@costamare.com,+86-852-728-877
+42,Diana Shipping Inc,66,info@diana.com,+49-378-848-288
+43,Tsakos Energy Navigation,66,info@tsakosenergy.com,+45-469-342-884
+44,Angelicoussis Shipping Group,66,info@angelicoussis.com,+972-368-180-960
+45,Transnet Port Terminals,161,info@transnetport.com,+44-868-917-121
+46,Pil Pacific International Lines,156,info@pilpacific.com,+886-664-377-256
+47,Maritime and Port Authority Logistics,156,info@maritimeand.com,+972-851-369-042
+48,X-Press Feeders,156,info@x-pressfeeders.com,+1-032-304-553
+49,Rederi AB Transatlantic,168,info@rederitransatlantic.com,+972-179-189-438
+50,Interasia Lines,36,info@interasia.com,+27-066-892-838

@@ -1,0 +1,151 @@
+Agreement_ID,Country1_ID,Country2_ID,Agreement_Name,Start_Date
+1,189,15,Vanuatu-Barbados Trade and Tariff Reduction Pact,2023-11-21
+2,112,169,Moldova-Switzerland Trade and Tariff Reduction Pact,1999-12-26
+3,117,122,Mozambique-Netherlands Customs Cooperation Agreement,2001-05-04
+4,171,47,Tajikistan-Djibouti Economic Cooperation Agreement,1994-11-06
+5,193,86,Yemen-Jordan Strategic Economic Partnership,2009-02-28
+6,25,191,Brunei-Venezuela Strategic Economic Partnership,1998-01-28
+7,107,138,Marshall Islands-Philippines Comprehensive Economic Partnership Agreement,2016-03-18
+8,55,130,Estonia-Oman Free Trade Agreement,2019-03-10
+9,55,37,Estonia-Colombia Strategic Economic Partnership,2013-02-11
+10,157,164,Slovakia-Spain Trade and Tariff Reduction Pact,1999-10-17
+11,161,110,South Africa-Mexico Free Trade Agreement,1997-05-01
+12,46,137,Denmark-Peru Strategic Economic Partnership,1998-11-30
+13,94,21,Lebanon-Bolivia Trade and Tariff Reduction Pact,1997-04-26
+14,13,84,Bahrain-Jamaica Economic Cooperation Agreement,2004-02-20
+15,84,88,Jamaica-Kenya Bilateral Trade and Investment Agreement,2016-05-09
+16,50,82,Ecuador-Italy Comprehensive Economic Partnership Agreement,2023-03-01
+17,114,161,Mongolia-South Africa Customs Cooperation Agreement,2016-07-09
+18,7,6,Argentina-Antigua and Barbuda Free Trade Agreement,1996-02-29
+19,117,44,Mozambique-Cyprus Free Trade Agreement,2020-09-05
+20,15,134,Barbados-Panama Economic Cooperation Agreement,2009-01-29
+21,7,18,Argentina-Belize Strategic Economic Partnership,2018-04-24
+22,7,36,Argentina-China Trade and Tariff Reduction Pact,2004-06-08
+23,114,180,Mongolia-Turkmenistan Preferential Trade Agreement,1994-03-08
+24,74,152,Hungary-Senegal Trade and Tariff Reduction Pact,2015-01-02
+25,101,144,Madagascar-Rwanda Customs Cooperation Agreement,2010-11-06
+26,64,107,Germany-Marshall Islands Comprehensive Economic Partnership Agreement,2017-08-23
+27,155,47,Sierra Leone-Djibouti Strategic Economic Partnership,2017-08-21
+28,108,182,Mauritania-Uganda Trade and Tariff Reduction Pact,2021-10-05
+29,19,55,Benin-Estonia Trade and Tariff Reduction Pact,2023-02-03
+30,134,100,Panama-Luxembourg Preferential Trade Agreement,2024-11-22
+31,83,170,Ivory Coast-Syria Trade and Tariff Reduction Pact,2023-10-12
+32,191,6,Venezuela-Antigua and Barbuda Free Trade Agreement,1994-06-24
+33,60,8,France-Armenia Comprehensive Economic Partnership Agreement,2019-09-16
+34,51,167,Egypt-Suriname Customs Cooperation Agreement,1996-06-09
+35,119,161,Namibia-South Africa Bilateral Trade and Investment Agreement,2017-04-01
+36,170,29,Syria-Cabo Verde Comprehensive Economic Partnership Agreement,2021-11-19
+37,129,112,Norway-Moldova Free Trade Agreement,1998-07-11
+38,186,139,United States-Poland Customs Cooperation Agreement,1995-06-09
+39,195,74,Zimbabwe-Hungary Trade and Tariff Reduction Pact,2017-12-17
+40,111,191,Micronesia-Venezuela Customs Cooperation Agreement,2012-01-20
+41,165,58,Sri Lanka-Fiji Strategic Economic Partnership,2004-08-21
+42,190,40,Vatican City-Congo (DRC) Preferential Trade Agreement,2019-09-10
+43,51,77,Egypt-Indonesia Free Trade Agreement,2016-11-09
+44,101,70,Madagascar-Guinea-Bissau Customs Cooperation Agreement,1995-02-20
+45,19,10,Benin-Austria Economic Cooperation Agreement,2012-07-03
+46,119,146,Namibia-Saint Lucia Trade and Tariff Reduction Pact,2013-11-03
+47,91,73,Kyrgyzstan-Honduras Strategic Economic Partnership,2017-06-27
+48,60,162,France-South Korea Comprehensive Economic Partnership Agreement,2009-07-15
+49,170,195,Syria-Zimbabwe Free Trade Agreement,2015-07-03
+50,20,176,Bhutan-Tonga Customs Cooperation Agreement,1995-06-07
+51,62,27,Gambia-Burkina Faso Comprehensive Economic Partnership Agreement,2000-02-05
+52,118,82,Myanmar-Italy Strategic Economic Partnership,2016-12-14
+53,132,34,Palau-Chad Free Trade Agreement,2002-12-01
+54,24,185,Brazil-United Kingdom Customs Cooperation Agreement,2020-04-05
+55,60,49,France-Dominican Republic Trade and Tariff Reduction Pact,2023-02-06
+56,53,75,Equatorial Guinea-Iceland Comprehensive Economic Partnership Agreement,2019-02-16
+57,115,10,Montenegro-Austria Strategic Economic Partnership,2009-12-05
+58,145,104,Saint Kitts and Nevis-Maldives Bilateral Trade and Investment Agreement,1997-01-12
+59,135,84,Papua New Guinea-Jamaica Trade and Tariff Reduction Pact,2015-03-10
+60,184,121,United Arab Emirates-Nepal Free Trade Agreement,2008-04-12
+61,31,124,Cameroon-Nicaragua Strategic Economic Partnership,2016-10-03
+62,159,143,Solomon Islands-Russia Free Trade Agreement,2002-03-17
+63,64,129,Germany-Norway Strategic Economic Partnership,2015-04-28
+64,111,130,Micronesia-Oman Customs Cooperation Agreement,2014-06-18
+65,64,69,Germany-Guinea Bilateral Trade and Investment Agreement,2007-05-18
+66,75,100,Iceland-Luxembourg Comprehensive Economic Partnership Agreement,2022-05-23
+67,138,86,Philippines-Jordan Free Trade Agreement,2005-07-20
+68,97,144,Libya-Rwanda Economic Cooperation Agreement,2000-08-06
+69,67,136,Grenada-Paraguay Bilateral Trade and Investment Agreement,2025-01-18
+70,35,4,Chile-Andorra Free Trade Agreement,2018-04-29
+71,83,193,Ivory Coast-Yemen Preferential Trade Agreement,2017-05-16
+72,87,176,Kazakhstan-Tonga Strategic Economic Partnership,2017-02-10
+73,150,93,Sao Tome and Principe-Latvia Bilateral Trade and Investment Agreement,2010-11-01
+74,170,96,Syria-Liberia Trade and Tariff Reduction Pact,2002-09-26
+75,21,60,Bolivia-France Preferential Trade Agreement,2010-12-06
+76,119,65,Namibia-Ghana Customs Cooperation Agreement,1996-12-28
+77,41,76,Costa Rica-India Customs Cooperation Agreement,1994-10-31
+78,23,143,Botswana-Russia Customs Cooperation Agreement,2023-02-28
+79,176,151,Tonga-Saudi Arabia Customs Cooperation Agreement,2000-01-27
+80,184,126,United Arab Emirates-Nigeria Strategic Economic Partnership,2007-02-06
+81,121,174,Nepal-Timor-Leste Preferential Trade Agreement,2007-12-17
+82,166,18,Sudan-Belize Preferential Trade Agreement,2003-08-16
+83,6,78,Antigua and Barbuda-Iran Strategic Economic Partnership,2003-05-31
+84,4,170,Andorra-Syria Economic Cooperation Agreement,2001-07-12
+85,11,170,Azerbaijan-Syria Free Trade Agreement,2004-10-17
+86,53,192,Equatorial Guinea-Vietnam Free Trade Agreement,2020-09-10
+87,179,128,Turkey-North Macedonia Economic Cooperation Agreement,2008-07-27
+88,60,14,France-Bangladesh Trade and Tariff Reduction Pact,1997-01-16
+89,74,16,Hungary-Belarus Customs Cooperation Agreement,2016-11-11
+90,86,160,Jordan-Somalia Customs Cooperation Agreement,2000-07-28
+91,114,184,Mongolia-United Arab Emirates Preferential Trade Agreement,2011-11-22
+92,8,155,Armenia-Sierra Leone Strategic Economic Partnership,2004-03-29
+93,189,167,Vanuatu-Suriname Trade and Tariff Reduction Pact,2002-02-07
+94,120,54,Nauru-Eritrea Strategic Economic Partnership,2000-01-05
+95,51,182,Egypt-Uganda Economic Cooperation Agreement,2010-03-03
+96,107,186,Marshall Islands-United States Free Trade Agreement,2004-11-23
+97,4,5,Andorra-Angola Customs Cooperation Agreement,2018-03-14
+98,77,159,Indonesia-Solomon Islands Free Trade Agreement,1995-02-16
+99,163,104,South Sudan-Maldives Free Trade Agreement,2002-04-02
+100,30,185,Cambodia-United Kingdom Bilateral Trade and Investment Agreement,2015-05-21
+101,128,144,North Macedonia-Rwanda Comprehensive Economic Partnership Agreement,2007-10-04
+102,12,68,Bahamas-Guatemala Trade and Tariff Reduction Pact,2011-07-24
+103,58,141,Fiji-Qatar Free Trade Agreement,2019-08-09
+104,131,132,Pakistan-Palau Strategic Economic Partnership,2010-03-03
+105,66,180,Greece-Turkmenistan Trade and Tariff Reduction Pact,2006-01-27
+106,110,70,Mexico-Guinea-Bissau Customs Cooperation Agreement,2009-10-25
+107,60,4,France-Andorra Customs Cooperation Agreement,2005-07-04
+108,7,16,Argentina-Belarus Customs Cooperation Agreement,2002-03-12
+109,67,113,Grenada-Monaco Free Trade Agreement,2008-07-26
+110,40,147,Congo (DRC)-Saint Vincent and the Grenadines Trade and Tariff Reduction Pact,2019-09-09
+111,109,129,Mauritius-Norway Preferential Trade Agreement,2017-08-03
+112,185,55,United Kingdom-Estonia Preferential Trade Agreement,2016-08-24
+113,169,49,Switzerland-Dominican Republic Customs Cooperation Agreement,2002-09-26
+114,124,162,Nicaragua-South Korea Economic Cooperation Agreement,1998-08-26
+115,90,190,Kuwait-Vatican City Trade and Tariff Reduction Pact,2015-10-20
+116,153,19,Serbia-Benin Comprehensive Economic Partnership Agreement,2012-12-27
+117,135,142,Papua New Guinea-Romania Customs Cooperation Agreement,2003-02-20
+118,165,179,Sri Lanka-Turkey Economic Cooperation Agreement,2021-04-13
+119,58,96,Fiji-Liberia Free Trade Agreement,2000-01-31
+120,183,77,Ukraine-Indonesia Bilateral Trade and Investment Agreement,2013-09-01
+121,141,155,Qatar-Sierra Leone Comprehensive Economic Partnership Agreement,2022-12-09
+122,86,135,Jordan-Papua New Guinea Preferential Trade Agreement,2016-04-11
+123,64,114,Germany-Mongolia Strategic Economic Partnership,2017-05-11
+124,94,153,Lebanon-Serbia Strategic Economic Partnership,2021-03-04
+125,24,146,Brazil-Saint Lucia Comprehensive Economic Partnership Agreement,2004-09-28
+126,175,78,Togo-Iran Customs Cooperation Agreement,2008-07-14
+127,183,191,Ukraine-Venezuela Customs Cooperation Agreement,2025-07-21
+128,86,116,Jordan-Morocco Comprehensive Economic Partnership Agreement,2014-01-20
+129,9,125,Australia-Niger Customs Cooperation Agreement,2014-05-22
+130,168,157,Sweden-Slovakia Free Trade Agreement,2005-11-06
+131,173,168,Thailand-Sweden Trade and Tariff Reduction Pact,2004-02-27
+132,89,137,Kiribati-Peru Strategic Economic Partnership,2023-09-07
+133,5,32,Angola-Canada Free Trade Agreement,2003-10-08
+134,144,55,Rwanda-Estonia Preferential Trade Agreement,2020-10-10
+135,193,131,Yemen-Pakistan Preferential Trade Agreement,2008-09-19
+136,135,189,Papua New Guinea-Vanuatu Trade and Tariff Reduction Pact,1995-08-01
+137,103,86,Malaysia-Jordan Trade and Tariff Reduction Pact,2001-08-21
+138,38,79,Comoros-Iraq Free Trade Agreement,2023-12-16
+139,160,3,Somalia-Algeria Bilateral Trade and Investment Agreement,2012-04-21
+140,39,157,Congo (Republic)-Slovakia Free Trade Agreement,1995-09-14
+141,47,116,Djibouti-Morocco Comprehensive Economic Partnership Agreement,2000-12-23
+142,31,27,Cameroon-Burkina Faso Customs Cooperation Agreement,2009-06-08
+143,12,156,Bahamas-Singapore Comprehensive Economic Partnership Agreement,2018-06-06
+144,131,60,Pakistan-France Customs Cooperation Agreement,1995-01-28
+145,95,112,Lesotho-Moldova Customs Cooperation Agreement,2001-03-02
+146,166,19,Sudan-Benin Comprehensive Economic Partnership Agreement,2000-02-16
+147,124,141,Nicaragua-Qatar Economic Cooperation Agreement,2023-10-21
+148,154,132,Seychelles-Palau Free Trade Agreement,1998-11-13
+149,1,103,Afghanistan-Malaysia Bilateral Trade and Investment Agreement,2025-01-13
+150,2,36,Albania-China Strategic Economic Partnership,2025-02-24

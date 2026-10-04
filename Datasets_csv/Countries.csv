@@ -1,0 +1,196 @@
+Country_ID,Country_Name,ISO_Code,Region_ID,Currency_ID,Capital,Population,Status
+1,Afghanistan,AF,1,1,Kabul,40099462,Active
+2,Albania,AL,2,2,Tirana,2837743,Active
+3,Algeria,DZ,5,1,Algiers,44700000,Active
+4,Andorra,AD,2,2,Andorra la Vella,77265,Active
+5,Angola,AO,5,1,Luanda,34503774,Active
+6,Antigua and Barbuda,AG,8,1,Saint John's,97928,Active
+7,Argentina,AR,4,39,Buenos Aires,45808747,Active
+8,Armenia,AM,1,1,Yerevan,2963243,Active
+9,Australia,AU,6,6,Canberra,26141369,Active
+10,Austria,AT,2,2,Vienna,9042528,Active
+11,Azerbaijan,AZ,1,1,Baku,10312992,Active
+12,Bahamas,BS,8,1,Nassau,412623,Active
+13,Bahrain,BH,7,47,Manama,1748296,Active
+14,Bangladesh,BD,1,34,Dhaka,171186372,Active
+15,Barbados,BB,8,1,Bridgetown,281995,Active
+16,Belarus,BY,2,17,Minsk,9498238,Active
+17,Belgium,BE,2,2,Brussels,11686140,Active
+18,Belize,BZ,8,1,Belmopan,405272,Active
+19,Benin,BJ,5,1,Porto-Novo,13712828,Active
+20,Bhutan,BT,1,4,Thimphu,787424,Active
+21,Bolivia,BO,4,1,Sucre,12224110,Active
+22,Bosnia and Herzegovina,BA,2,2,Sarajevo,3233526,Active
+23,Botswana,BW,5,19,Gaborone,2650473,Active
+24,Brazil,BR,4,18,Brasilia,216422446,Active
+25,Brunei,BN,1,12,Bandar Seri Begawan,449002,Active
+26,Bulgaria,BG,2,2,Sofia,6781953,Active
+27,Burkina Faso,BF,5,1,Ouagadougou,22673762,Active
+28,Burundi,BI,5,1,Gitega,12889576,Active
+29,Cabo Verde,CV,5,1,Praia,598682,Active
+30,Cambodia,KH,1,1,Phnom Penh,16944826,Active
+31,Cameroon,CM,5,1,Yaounde,27914536,Active
+32,Canada,CA,3,7,Ottawa,38454327,Active
+33,Central African Republic,CF,5,1,Bangui,5457154,Active
+34,Chad,TD,5,1,N'Djamena,17179740,Active
+35,Chile,CL,4,40,Santiago,19603733,Active
+36,China,CN,1,9,Beijing,1425887337,Active
+37,Colombia,CO,4,41,Bogota,51874024,Active
+38,Comoros,KM,5,1,Moroni,836774,Active
+39,Congo (Republic),CG,5,1,Brazzaville,5835806,Active
+40,Congo (DRC),CD,5,1,Kinshasa,99010212,Active
+41,Costa Rica,CR,8,1,San Jose,5153957,Active
+42,Croatia,HR,2,2,Zagreb,3899000,Active
+43,Cuba,CU,8,1,Havana,11212191,Active
+44,Cyprus,CY,2,2,Nicosia,1244188,Active
+45,Czech Republic,CZ,2,42,Prague,10493986,Active
+46,Denmark,DK,2,16,Copenhagen,5910913,Active
+47,Djibouti,DJ,5,1,Djibouti,1105557,Active
+48,Dominica,DM,8,1,Roseau,72737,Active
+49,Dominican Republic,DO,8,1,Santo Domingo,11228821,Active
+50,Ecuador,EC,4,1,Quito,18190484,Active
+51,Egypt,EG,5,30,Cairo,111247248,Active
+52,El Salvador,SV,8,1,San Salvador,6364943,Active
+53,Equatorial Guinea,GQ,5,1,Malabo,1714671,Active
+54,Eritrea,ER,5,1,Asmara,3748901,Active
+55,Estonia,EE,2,2,Tallinn,1322765,Active
+56,Eswatini,SZ,5,19,Mbabane,1210822,Active
+57,Ethiopia,ET,5,1,Addis Ababa,126527060,Active
+58,Fiji,FJ,6,6,Suva,929766,Active
+59,Finland,FI,2,2,Helsinki,5563970,Active
+60,France,FR,2,2,Paris,68170228,Active
+61,Gabon,GA,5,1,Libreville,2436566,Active
+62,Gambia,GM,5,1,Banjul,2773168,Active
+63,Georgia,GE,1,1,Tbilisi,3728282,Active
+64,Germany,DE,2,2,Berlin,84358845,Active
+65,Ghana,GH,5,1,Accra,34121985,Active
+66,Greece,GR,2,2,Athens,10341277,Active
+67,Grenada,GD,8,1,Saint George's,126183,Active
+68,Guatemala,GT,8,1,Guatemala City,18092026,Active
+69,Guinea,GN,5,1,Conakry,14190612,Active
+70,Guinea-Bissau,GW,5,1,Bissau,2150842,Active
+71,Guyana,GY,4,1,Georgetown,813834,Active
+72,Haiti,HT,8,1,Port-au-Prince,11724763,Active
+73,Honduras,HN,8,1,Tegucigalpa,10593798,Active
+74,Hungary,HU,2,43,Budapest,9597085,Active
+75,Iceland,IS,2,46,Reykjavik,375318,Active
+76,India,IN,1,4,New Delhi,1428627663,Active
+77,Indonesia,ID,1,26,Jakarta,277534122,Active
+78,Iran,IR,7,1,Tehran,89172767,Active
+79,Iraq,IQ,7,1,Baghdad,45504560,Active
+80,Ireland,IE,2,2,Dublin,5056935,Active
+81,Israel,IL,7,29,Jerusalem,9174520,Active
+82,Italy,IT,2,2,Rome,58870762,Active
+83,Ivory Coast,CI,5,1,Yamoussoukro,28873034,Active
+84,Jamaica,JM,8,1,Kingston,2825544,Active
+85,Japan,JP,1,5,Tokyo,123294513,Active
+86,Jordan,JO,7,49,Amman,11337052,Active
+87,Kazakhstan,KZ,1,17,Astana,19606633,Active
+88,Kenya,KE,5,38,Nairobi,55100586,Active
+89,Kiribati,KI,6,6,Tarawa,133515,Active
+90,Kuwait,KW,7,36,Kuwait City,4310108,Active
+91,Kyrgyzstan,KG,1,17,Bishkek,7100000,Active
+92,Laos,LA,1,24,Vientiane,7633779,Active
+93,Latvia,LV,2,2,Riga,1830212,Active
+94,Lebanon,LB,7,1,Beirut,5353930,Active
+95,Lesotho,LS,5,19,Maseru,2330318,Active
+96,Liberia,LR,5,1,Monrovia,5418377,Active
+97,Libya,LY,5,1,Tripoli,6812341,Active
+98,Liechtenstein,LI,2,8,Vaduz,39584,Active
+99,Lithuania,LT,2,2,Vilnius,2718352,Active
+100,Luxembourg,LU,2,2,Luxembourg,654768,Active
+101,Madagascar,MG,5,1,Antananarivo,30325732,Active
+102,Malawi,MW,5,1,Lilongwe,20794353,Active
+103,Malaysia,MY,1,25,Kuala Lumpur,33938221,Active
+104,Maldives,MV,1,1,Male,521021,Active
+105,Mali,ML,5,1,Bamako,23293698,Active
+106,Malta,MT,2,2,Valletta,535064,Active
+107,Marshall Islands,MH,6,1,Majuro,41996,Active
+108,Mauritania,MR,5,1,Nouakchott,4862989,Active
+109,Mauritius,MU,5,1,Port Louis,1300557,Active
+110,Mexico,MX,3,20,Mexico City,128455567,Active
+111,Micronesia,FM,6,1,Palikir,113131,Active
+112,Moldova,MD,2,2,Chisinau,3435931,Active
+113,Monaco,MC,2,2,Monaco,36686,Active
+114,Mongolia,MN,1,9,Ulaanbaatar,3398366,Active
+115,Montenegro,ME,2,2,Podgorica,627082,Active
+116,Morocco,MA,5,1,Rabat,37984655,Active
+117,Mozambique,MZ,5,1,Maputo,33089461,Active
+118,Myanmar,MM,1,24,Naypyidaw,54577997,Active
+119,Namibia,NA,5,19,Windhoek,2604172,Active
+120,Nauru,NR,6,6,Yaren,12780,Active
+121,Nepal,NP,1,4,Kathmandu,30896590,Active
+122,Netherlands,NL,2,2,Amsterdam,17618299,Active
+123,New Zealand,NZ,6,11,Wellington,5223100,Active
+124,Nicaragua,NI,8,1,Managua,6850540,Active
+125,Niger,NE,5,1,Niamey,26207977,Active
+126,Nigeria,NG,5,31,Abuja,223804632,Active
+127,North Korea,KP,1,9,Pyongyang,26160821,Active
+128,North Macedonia,MK,2,2,Skopje,2093599,Active
+129,Norway,NO,2,15,Oslo,5474360,Active
+130,Oman,OM,7,48,Muscat,4644384,Active
+131,Pakistan,PK,1,33,Islamabad,240485658,Active
+132,Palau,PW,6,1,Ngerulmud,18055,Active
+133,Palestine,PS,7,29,Ramallah,5371230,Active
+134,Panama,PA,8,1,Panama City,4468087,Active
+135,Papua New Guinea,PG,6,6,Port Moresby,10329931,Active
+136,Paraguay,PY,4,1,Asuncion,6861524,Active
+137,Peru,PE,4,1,Lima,34049588,Active
+138,Philippines,PH,1,27,Manila,117337368,Active
+139,Poland,PL,2,28,Warsaw,41026067,Active
+140,Portugal,PT,2,2,Lisbon,10247605,Active
+141,Qatar,QA,7,37,Doha,2716391,Active
+142,Romania,RO,2,44,Bucharest,19051562,Active
+143,Russia,RU,2,17,Moscow,144444359,Active
+144,Rwanda,RW,5,1,Kigali,14094683,Active
+145,Saint Kitts and Nevis,KN,8,1,Basseterre,47755,Active
+146,Saint Lucia,LC,8,1,Castries,180251,Active
+147,Saint Vincent and the Grenadines,VC,8,1,Kingstown,103698,Active
+148,Samoa,WS,6,11,Apia,225681,Active
+149,San Marino,SM,2,2,San Marino,33642,Active
+150,Sao Tome and Principe,ST,5,1,Sao Tome,227380,Active
+151,Saudi Arabia,SA,7,22,Riyadh,36947025,Active
+152,Senegal,SN,5,1,Dakar,17763163,Active
+153,Serbia,RS,2,2,Belgrade,6797627,Active
+154,Seychelles,SC,5,1,Victoria,107660,Active
+155,Sierra Leone,SL,5,1,Freetown,8791092,Active
+156,Singapore,SG,1,12,Singapore,5975689,Active
+157,Slovakia,SK,2,2,Bratislava,5459642,Active
+158,Slovenia,SI,2,2,Ljubljana,2119675,Active
+159,Solomon Islands,SB,6,6,Honiara,740424,Active
+160,Somalia,SO,5,1,Mogadishu,18143379,Active
+161,South Africa,ZA,5,19,Pretoria,60414495,Active
+162,South Korea,KR,1,13,Seoul,51784059,Active
+163,South Sudan,SS,5,1,Juba,11088796,Active
+164,Spain,ES,2,2,Madrid,47519628,Active
+165,Sri Lanka,LK,1,35,Colombo,21763170,Active
+166,Sudan,SD,5,1,Khartoum,48109006,Active
+167,Suriname,SR,4,1,Paramaribo,623236,Active
+168,Sweden,SE,2,14,Stockholm,10612086,Active
+169,Switzerland,CH,2,8,Bern,8796669,Active
+170,Syria,SY,7,1,Damascus,22125249,Active
+171,Tajikistan,TJ,1,17,Dushanbe,10143543,Active
+172,Tanzania,TZ,5,38,Dodoma,67438106,Active
+173,Thailand,TH,1,24,Bangkok,71801279,Active
+174,Timor-Leste,TL,1,1,Dili,1360596,Active
+175,Togo,TG,5,1,Lome,8848699,Active
+176,Tonga,TO,6,11,Nuku'alofa,107773,Active
+177,Trinidad and Tobago,TT,8,1,Port of Spain,1531044,Active
+178,Tunisia,TN,5,2,Tunis,12356117,Active
+179,Turkey,TR,7,21,Ankara,85816199,Active
+180,Turkmenistan,TM,1,17,Ashgabat,6431867,Active
+181,Tuvalu,TV,6,6,Funafuti,11396,Active
+182,Uganda,UG,5,38,Kampala,48582334,Active
+183,Ukraine,UA,2,45,Kyiv,36744634,Active
+184,United Arab Emirates,AE,7,23,Abu Dhabi,9441129,Active
+185,United Kingdom,GB,2,3,London,67736802,Active
+186,United States,US,3,1,Washington D.C.,334914895,Active
+187,Uruguay,UY,4,1,Montevideo,3423108,Active
+188,Uzbekistan,UZ,1,17,Tashkent,35163944,Active
+189,Vanuatu,VU,6,6,Port Vila,334506,Active
+190,Vatican City,VA,2,2,Vatican City,764,Active
+191,Venezuela,VE,4,1,Caracas,28301696,Active
+192,Vietnam,VN,1,32,Hanoi,98858950,Active
+193,Yemen,YE,7,1,Sanaa,34449825,Active
+194,Zambia,ZM,5,1,Lusaka,20569737,Active
+195,Zimbabwe,ZW,5,19,Harare,16665409,Active
