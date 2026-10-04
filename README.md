@@ -92,7 +92,6 @@ The database relationships between the 20 tables are represented in the ER diagr
 
 [![ER Diagram](./ER_Diagram.png)](./ER_Diagram.png)
 
-
 ---
 
 ## 🔍 SQL Analysis Performed
