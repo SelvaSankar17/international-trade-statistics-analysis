@@ -92,7 +92,6 @@ The database relationships between the 20 tables are represented in the ER diagr
 
 [![ER Diagram](./ER_Diagram.png)](./ER_Diagram.png)
 
-> **Note:** Keep `ER_Diagram.png` in the same folder as this `README.md` file.
 
 ---
 
